@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/dhwan1t/DSA-Practice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2630-alternating-digit-sum](https://github.com/dhwan1t/DSA-Practice/tree/master/2630-alternating-digit-sum) |
 ## Greedy
 |  |
 | ------- |
