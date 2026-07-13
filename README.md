@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/dhwan1t/DSA-Practice/tree/master/0875-longest-mountain-in-array) |
 | [1212-sequential-digits](https://github.com/dhwan1t/DSA-Practice/tree/master/1212-sequential-digits) |
+| [2083-three-divisors](https://github.com/dhwan1t/DSA-Practice/tree/master/2083-three-divisors) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/dhwan1t/DSA-Practice/tree/master/2083-three-divisors) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/dhwan1t/DSA-Practice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2630-alternating-digit-sum](https://github.com/dhwan1t/DSA-Practice/tree/master/2630-alternating-digit-sum) |
 ## Greedy
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4058-compute-alternating-sum](https://github.com/dhwan1t/DSA-Practice/tree/master/4058-compute-alternating-sum) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/dhwan1t/DSA-Practice/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
