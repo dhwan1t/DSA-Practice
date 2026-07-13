@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/dhwan1t/DSA-Practice/tree/master/0875-longest-mountain-in-array) |
+| [1212-sequential-digits](https://github.com/dhwan1t/DSA-Practice/tree/master/1212-sequential-digits) |
 ## Prefix Sum
 |  |
 | ------- |
