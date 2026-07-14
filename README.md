@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dhwan1t/DSA-Practice/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/dhwan1t/DSA-Practice/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/dhwan1t/DSA-Practice/tree/master/2210-find-target-indices-after-sorting-array) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dhwan1t/DSA-Practice/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4058-compute-alternating-sum](https://github.com/dhwan1t/DSA-Practice/tree/master/4058-compute-alternating-sum) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/dhwan1t/DSA-Practice/tree/master/2083-three-divisors) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/dhwan1t/DSA-Practice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2630-alternating-digit-sum](https://github.com/dhwan1t/DSA-Practice/tree/master/2630-alternating-digit-sum) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/dhwan1t/DSA-Practice/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
