@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/dhwan1t/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0875-longest-mountain-in-array](https://github.com/dhwan1t/DSA-Practice/tree/master/0875-longest-mountain-in-array) |
 ## Dynamic Programming
 |  |
@@ -65,4 +66,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dhwan1t/DSA-Practice/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/dhwan1t/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/dhwan1t/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/dhwan1t/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
