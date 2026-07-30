@@ -1,11 +1,14 @@
 # LeetCode Solutions
 
-> **1** problems solved
+> **2** problems solved
 
 ## Topics
 
 - [Array](#array) (1)
 - [Dynamic Programming](#dynamic-programming) (1)
+- [Greedy](#greedy) (1)
+- [Math](#math) (1)
+- [String](#string) (1)
 - [All Problems](#all-problems)
 
 ## Array
@@ -20,11 +23,30 @@
 |---|-------|------------|----------|
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
 
+## Greedy
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
+
+## Math
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
+
+## String
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
+
 ## All Problems
 
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
+| 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | Math, String, Greedy | java |
 
 ---
 
