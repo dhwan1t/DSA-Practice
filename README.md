@@ -1,14 +1,16 @@
 # LeetCode Solutions
 
-> **2** problems solved
+> **3** problems solved
 
 ## Topics
 
 - [Array](#array) (1)
 - [Dynamic Programming](#dynamic-programming) (1)
 - [Greedy](#greedy) (1)
+- [Hash Table](#hash-table) (1)
 - [Math](#math) (1)
-- [String](#string) (1)
+- [Sliding Window](#sliding-window) (1)
+- [String](#string) (2)
 - [All Problems](#all-problems)
 
 ## Array
@@ -29,22 +31,36 @@
 |---|-------|------------|----------|
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 
+## Hash Table
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
+
 ## Math
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 
+## Sliding Window
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
+
 ## String
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 
 ## All Problems
 
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
+| 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | Math, String, Greedy | java |
 
