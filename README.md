@@ -1,15 +1,16 @@
 # LeetCode Solutions
 
-> **3** problems solved
+> **4** problems solved
 
 ## Topics
 
-- [Array](#array) (1)
+- [Array](#array) (2)
+- [Counting](#counting) (1)
 - [Dynamic Programming](#dynamic-programming) (1)
 - [Greedy](#greedy) (1)
-- [Hash Table](#hash-table) (1)
+- [Hash Table](#hash-table) (2)
 - [Math](#math) (1)
-- [Sliding Window](#sliding-window) (1)
+- [Sliding Window](#sliding-window) (2)
 - [String](#string) (2)
 - [All Problems](#all-problems)
 
@@ -18,6 +19,13 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
+| 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
+
+## Counting
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 
 ## Dynamic Programming
 
@@ -36,6 +44,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
+| 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 
 ## Math
 
@@ -48,6 +57,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
+| 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 
 ## String
 
@@ -62,6 +72,7 @@
 |---|-------|------------|--------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
+| 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | Array, Hash Table, Sliding Window, Counting | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | Math, String, Greedy | java |
 
 ---
