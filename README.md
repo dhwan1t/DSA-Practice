@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **5** problems solved
+> **6** problems solved
 
 ## Topics
 
@@ -12,7 +12,7 @@
 - [Math](#math) (1)
 - [Sliding Window](#sliding-window) (2)
 - [String](#string) (2)
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [All Problems](#all-problems)
 
 ## Array
@@ -72,6 +72,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 4010 | [Maximize Pair Strength Using GCD](./4010-maximize-pair-strength-using-gcd/) | Easy | java |
+| 4010 | [Maximize Pair Strength Using GCD](./4010-count-subarrays-with-even-odd-ratio-i/) | Easy | java |
 
 ## All Problems
 
@@ -82,6 +83,7 @@
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | Array, Hash Table, Sliding Window, Counting | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | Math, String, Greedy | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-maximize-pair-strength-using-gcd/) | Easy | - | java |
+| 4010 | [Maximize Pair Strength Using GCD](./4010-count-subarrays-with-even-odd-ratio-i/) | Easy | - | java |
 
 ---
 
