@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **4** problems solved
+> **5** problems solved
 
 ## Topics
 
@@ -12,6 +12,7 @@
 - [Math](#math) (1)
 - [Sliding Window](#sliding-window) (2)
 - [String](#string) (2)
+- [Uncategorized](#uncategorized) (1)
 - [All Problems](#all-problems)
 
 ## Array
@@ -66,6 +67,12 @@
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 
+## Uncategorized
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 4010 | [Maximize Pair Strength Using GCD](./4010-maximize-pair-strength-using-gcd/) | Easy | java |
+
 ## All Problems
 
 | # | Title | Difficulty | Topics | Language |
@@ -74,6 +81,7 @@
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | Array, Hash Table, Sliding Window, Counting | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | Math, String, Greedy | java |
+| 4010 | [Maximize Pair Strength Using GCD](./4010-maximize-pair-strength-using-gcd/) | Easy | - | java |
 
 ---
 
