@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **6** problems solved
+> **7** problems solved
 
 ## Topics
 
@@ -12,7 +12,7 @@
 - [Math](#math) (1)
 - [Sliding Window](#sliding-window) (2)
 - [String](#string) (2)
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [All Problems](#all-problems)
 
 ## Array
@@ -73,6 +73,7 @@
 |---|-------|------------|----------|
 | 4010 | [Maximize Pair Strength Using GCD](./4010-maximize-pair-strength-using-gcd/) | Easy | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-count-subarrays-with-even-odd-ratio-i/) | Easy | java |
+| 4010 | [Maximize Pair Strength Using GCD](./4010-count-of-unfinished-tasks-after-each-shift/) | Easy | java |
 
 ## All Problems
 
@@ -84,6 +85,7 @@
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | Math, String, Greedy | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-maximize-pair-strength-using-gcd/) | Easy | - | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-count-subarrays-with-even-odd-ratio-i/) | Easy | - | java |
+| 4010 | [Maximize Pair Strength Using GCD](./4010-count-of-unfinished-tasks-after-each-shift/) | Easy | - | java |
 
 ---
 
