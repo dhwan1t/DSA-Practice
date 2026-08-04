@@ -1,16 +1,17 @@
 # LeetCode Solutions
 
-> **7** problems solved
+> **8** problems solved
 
 ## Topics
 
-- [Array](#array) (2)
+- [Array](#array) (3)
 - [Counting](#counting) (1)
 - [Dynamic Programming](#dynamic-programming) (1)
 - [Greedy](#greedy) (1)
-- [Hash Table](#hash-table) (2)
+- [Hash Table](#hash-table) (3)
 - [Math](#math) (1)
 - [Sliding Window](#sliding-window) (2)
+- [Sorting](#sorting) (1)
 - [String](#string) (2)
 - [Uncategorized](#uncategorized) (3)
 - [All Problems](#all-problems)
@@ -21,6 +22,7 @@
 |---|-------|------------|----------|
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
+| 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
 
 ## Counting
 
@@ -46,6 +48,7 @@
 |---|-------|------------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
+| 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
 
 ## Math
 
@@ -59,6 +62,12 @@
 |---|-------|------------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
+
+## Sorting
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
 
 ## String
 
@@ -83,6 +92,7 @@
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | Array, Hash Table, Sliding Window, Counting | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | Math, String, Greedy | java |
+| 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | Array, Hash Table, Sorting | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-maximize-pair-strength-using-gcd/) | Easy | - | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-count-subarrays-with-even-odd-ratio-i/) | Easy | - | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-count-of-unfinished-tasks-after-each-shift/) | Easy | - | java |
