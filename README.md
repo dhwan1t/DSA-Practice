@@ -26,20 +26,20 @@
 |---|-------|------------|----------|
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
-| 992 | [Subarrays with K Different Integers](./992-closest-subsequence-sum/) | Hard | java |
+| 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
 
 ## Bit Manipulation
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
-| 992 | [Subarrays with K Different Integers](./992-closest-subsequence-sum/) | Hard | java |
+| 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 
 ## Bitmask
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
-| 992 | [Subarrays with K Different Integers](./992-closest-subsequence-sum/) | Hard | java |
+| 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 
 ## Counting
 
@@ -52,7 +52,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
-| 992 | [Subarrays with K Different Integers](./992-closest-subsequence-sum/) | Hard | java |
+| 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 
 ## Greedy
 
@@ -78,7 +78,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
-| 992 | [Subarrays with K Different Integers](./992-closest-subsequence-sum/) | Hard | java |
+| 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 
 ## Sliding Window
 
@@ -91,7 +91,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
-| 992 | [Subarrays with K Different Integers](./992-closest-subsequence-sum/) | Hard | java |
+| 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
 
 ## String
@@ -105,7 +105,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
-| 992 | [Subarrays with K Different Integers](./992-closest-subsequence-sum/) | Hard | java |
+| 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 
 ## Uncategorized
 
@@ -122,7 +122,7 @@
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | Array, Hash Table, Sliding Window, Counting | java |
-| 992 | [Subarrays with K Different Integers](./992-closest-subsequence-sum/) | Hard | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Bitmask | java |
+| 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Bitmask | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | Math, String, Greedy | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | Array, Hash Table, Sorting | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-maximize-pair-strength-using-gcd/) | Easy | - | java |
