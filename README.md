@@ -1,18 +1,22 @@
 # LeetCode Solutions
 
-> **8** problems solved
+> **9** problems solved
 
 ## Topics
 
-- [Array](#array) (3)
+- [Array](#array) (4)
+- [Bit Manipulation](#bit-manipulation) (1)
+- [Bitmask](#bitmask) (1)
 - [Counting](#counting) (1)
-- [Dynamic Programming](#dynamic-programming) (1)
+- [Dynamic Programming](#dynamic-programming) (2)
 - [Greedy](#greedy) (1)
 - [Hash Table](#hash-table) (3)
 - [Math](#math) (1)
+- [Meet in the Middle](#meet-in-the-middle) (1)
 - [Sliding Window](#sliding-window) (2)
-- [Sorting](#sorting) (1)
+- [Sorting](#sorting) (2)
 - [String](#string) (2)
+- [Two Pointers](#two-pointers) (1)
 - [Uncategorized](#uncategorized) (3)
 - [All Problems](#all-problems)
 
@@ -22,7 +26,20 @@
 |---|-------|------------|----------|
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
+| 992 | [Subarrays with K Different Integers](./992-closest-subsequence-sum/) | Hard | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
+
+## Bit Manipulation
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 992 | [Subarrays with K Different Integers](./992-closest-subsequence-sum/) | Hard | java |
+
+## Bitmask
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 992 | [Subarrays with K Different Integers](./992-closest-subsequence-sum/) | Hard | java |
 
 ## Counting
 
@@ -35,6 +52,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
+| 992 | [Subarrays with K Different Integers](./992-closest-subsequence-sum/) | Hard | java |
 
 ## Greedy
 
@@ -56,6 +74,12 @@
 |---|-------|------------|----------|
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 
+## Meet in the Middle
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 992 | [Subarrays with K Different Integers](./992-closest-subsequence-sum/) | Hard | java |
+
 ## Sliding Window
 
 | # | Title | Difficulty | Language |
@@ -67,6 +91,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 992 | [Subarrays with K Different Integers](./992-closest-subsequence-sum/) | Hard | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
 
 ## String
@@ -75,6 +100,12 @@
 |---|-------|------------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
+
+## Two Pointers
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 992 | [Subarrays with K Different Integers](./992-closest-subsequence-sum/) | Hard | java |
 
 ## Uncategorized
 
@@ -91,6 +122,7 @@
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | Array, Hash Table, Sliding Window, Counting | java |
+| 992 | [Subarrays with K Different Integers](./992-closest-subsequence-sum/) | Hard | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Bitmask | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | Math, String, Greedy | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | Array, Hash Table, Sorting | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-maximize-pair-strength-using-gcd/) | Easy | - | java |
