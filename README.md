@@ -1,22 +1,23 @@
 # LeetCode Solutions
 
-> **9** problems solved
+> **10** problems solved
 
 ## Topics
 
-- [Array](#array) (4)
+- [Array](#array) (5)
 - [Bit Manipulation](#bit-manipulation) (1)
 - [Bitmask](#bitmask) (1)
 - [Counting](#counting) (1)
 - [Dynamic Programming](#dynamic-programming) (2)
 - [Greedy](#greedy) (1)
-- [Hash Table](#hash-table) (3)
+- [Hash Table](#hash-table) (4)
 - [Math](#math) (1)
 - [Meet in the Middle](#meet-in-the-middle) (1)
 - [Sliding Window](#sliding-window) (2)
 - [Sorting](#sorting) (2)
 - [String](#string) (2)
 - [Two Pointers](#two-pointers) (1)
+- [Union-Find](#union-find) (1)
 - [Uncategorized](#uncategorized) (3)
 - [All Problems](#all-problems)
 
@@ -27,6 +28,7 @@
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-longest-consecutive-sequence/) | Hard | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
 
 ## Bit Manipulation
@@ -66,6 +68,7 @@
 |---|-------|------------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-longest-consecutive-sequence/) | Hard | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
 
 ## Math
@@ -107,6 +110,12 @@
 |---|-------|------------|----------|
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 
+## Union-Find
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-longest-consecutive-sequence/) | Hard | java |
+
 ## Uncategorized
 
 | # | Title | Difficulty | Language |
@@ -123,6 +132,7 @@
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | Array, Hash Table, Sliding Window, Counting | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Bitmask | java |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-longest-consecutive-sequence/) | Hard | Array, Hash Table, Union-Find | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | Math, String, Greedy | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | Array, Hash Table, Sorting | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-maximize-pair-strength-using-gcd/) | Easy | - | java |
