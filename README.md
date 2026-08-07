@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **11** problems solved
+> **12** problems solved
 
 ## Topics
 
@@ -8,6 +8,7 @@
 - [Bit Manipulation](#bit-manipulation) (1)
 - [Bitmask](#bitmask) (1)
 - [Counting](#counting) (1)
+- [Database](#database) (1)
 - [Dynamic Programming](#dynamic-programming) (2)
 - [Greedy](#greedy) (1)
 - [Hash Table](#hash-table) (5)
@@ -49,6 +50,12 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
+
+## Database
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 1683 | [Invalid Tweets](./1683-invalid-tweets/) | Easy | mysql |
 
 ## Dynamic Programming
 
@@ -135,6 +142,7 @@
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | Array, Hash Table, Sliding Window, Counting | java |
+| 1683 | [Invalid Tweets](./1683-invalid-tweets/) | Easy | Database | mysql |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Bitmask | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-longest-consecutive-sequence/) | Hard | Array, Hash Table, Union-Find | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | Array, Hash Table, String, Sorting | java |
