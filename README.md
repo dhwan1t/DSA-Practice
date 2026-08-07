@@ -1,23 +1,25 @@
 # LeetCode Solutions
 
-> **13** problems solved
+> **14** problems solved
 
 ## Topics
 
-- [Array](#array) (7)
+- [Array](#array) (8)
 - [Binary Search](#binary-search) (1)
 - [Bit Manipulation](#bit-manipulation) (2)
 - [Bitmask](#bitmask) (2)
 - [Counting](#counting) (1)
 - [Database](#database) (1)
-- [Dynamic Programming](#dynamic-programming) (3)
+- [Dynamic Programming](#dynamic-programming) (4)
 - [Greedy](#greedy) (1)
 - [Hash Table](#hash-table) (5)
 - [Math](#math) (1)
 - [Meet in the Middle](#meet-in-the-middle) (2)
+- [Monotonic Stack](#monotonic-stack) (1)
 - [Ordered Set](#ordered-set) (1)
 - [Sliding Window](#sliding-window) (2)
 - [Sorting](#sorting) (4)
+- [Stack](#stack) (1)
 - [String](#string) (3)
 - [Two Pointers](#two-pointers) (2)
 - [Union-Find](#union-find) (1)
@@ -29,6 +31,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
+| 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-longest-consecutive-sequence/) | Hard | java |
@@ -73,6 +76,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
+| 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 
@@ -105,6 +109,12 @@
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 
+## Monotonic Stack
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | java |
+
 ## Ordered Set
 
 | # | Title | Difficulty | Language |
@@ -126,6 +136,12 @@
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
+
+## Stack
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | java |
 
 ## String
 
@@ -162,6 +178,7 @@
 |---|-------|------------|--------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
+| 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | Array, Dynamic Programming, Stack, Monotonic Stack | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | Array, Hash Table, Sliding Window, Counting | java |
 | 1683 | [Invalid Tweets](./1683-invalid-tweets/) | Easy | Database | mysql |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Bitmask | java |
