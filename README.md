@@ -1,23 +1,25 @@
 # LeetCode Solutions
 
-> **12** problems solved
+> **13** problems solved
 
 ## Topics
 
-- [Array](#array) (6)
-- [Bit Manipulation](#bit-manipulation) (1)
-- [Bitmask](#bitmask) (1)
+- [Array](#array) (7)
+- [Binary Search](#binary-search) (1)
+- [Bit Manipulation](#bit-manipulation) (2)
+- [Bitmask](#bitmask) (2)
 - [Counting](#counting) (1)
 - [Database](#database) (1)
-- [Dynamic Programming](#dynamic-programming) (2)
+- [Dynamic Programming](#dynamic-programming) (3)
 - [Greedy](#greedy) (1)
 - [Hash Table](#hash-table) (5)
 - [Math](#math) (1)
-- [Meet in the Middle](#meet-in-the-middle) (1)
+- [Meet in the Middle](#meet-in-the-middle) (2)
+- [Ordered Set](#ordered-set) (1)
 - [Sliding Window](#sliding-window) (2)
-- [Sorting](#sorting) (3)
+- [Sorting](#sorting) (4)
 - [String](#string) (3)
-- [Two Pointers](#two-pointers) (1)
+- [Two Pointers](#two-pointers) (2)
 - [Union-Find](#union-find) (1)
 - [Uncategorized](#uncategorized) (3)
 - [All Problems](#all-problems)
@@ -31,19 +33,28 @@
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-longest-consecutive-sequence/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | java |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
+
+## Binary Search
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 
 ## Bit Manipulation
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 
 ## Bitmask
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 
 ## Counting
 
@@ -63,6 +74,7 @@
 |---|-------|------------|----------|
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 
 ## Greedy
 
@@ -91,6 +103,13 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
+
+## Ordered Set
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 
 ## Sliding Window
 
@@ -105,6 +124,7 @@
 |---|-------|------------|----------|
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | java |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
 
 ## String
@@ -120,6 +140,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 
 ## Union-Find
 
@@ -146,6 +167,7 @@
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Bitmask | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-longest-consecutive-sequence/) | Hard | Array, Hash Table, Union-Find | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | Array, Hash Table, String, Sorting | java |
+| 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Ordered Set, Bitmask | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | Math, String, Greedy | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | Array, Hash Table, Sorting | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-maximize-pair-strength-using-gcd/) | Easy | - | java |
