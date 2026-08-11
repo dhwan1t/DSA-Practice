@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **15** problems solved
+> **16** problems solved
 
 ## Topics
 
@@ -10,12 +10,13 @@
 - [Bitmask](#bitmask) (2)
 - [Counting](#counting) (1)
 - [Database](#database) (1)
-- [Design](#design) (1)
+- [Design](#design) (2)
+- [Doubly-Linked List](#doubly-linked-list) (1)
 - [Dynamic Programming](#dynamic-programming) (4)
 - [Greedy](#greedy) (1)
 - [Hash Function](#hash-function) (1)
-- [Hash Table](#hash-table) (6)
-- [Linked List](#linked-list) (1)
+- [Hash Table](#hash-table) (7)
+- [Linked List](#linked-list) (2)
 - [Math](#math) (1)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Monotonic Stack](#monotonic-stack) (1)
@@ -80,6 +81,13 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
+| 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
+
+## Doubly-Linked List
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
 
 ## Dynamic Programming
 
@@ -108,6 +116,7 @@
 |---|-------|------------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
+| 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-longest-consecutive-sequence/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | java |
@@ -118,6 +127,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
+| 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
 
 ## Math
 
@@ -202,6 +212,7 @@
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | Array, Hash Table, Linked List, Design, Hash Function | java |
+| 706 | [Design HashMap](./706-lru-cache/) | Easy | Hash Table, Linked List, Design, Doubly-Linked List | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | Array, Dynamic Programming, Stack, Monotonic Stack | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | Array, Hash Table, Sliding Window, Counting | java |
 | 1683 | [Invalid Tweets](./1683-invalid-tweets/) | Easy | Database | mysql |
