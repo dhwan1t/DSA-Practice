@@ -1,12 +1,12 @@
 # LeetCode Solutions
 
-> **17** problems solved
+> **18** problems solved
 
 ## Topics
 
-- [Algorithm X](#algorithm-x) (1)
+- [Algorithm X](#algorithm-x) (2)
 - [Array](#array) (10)
-- [Backtracking](#backtracking) (1)
+- [Backtracking](#backtracking) (2)
 - [Binary Search](#binary-search) (1)
 - [Bit Manipulation](#bit-manipulation) (2)
 - [Bitmask](#bitmask) (2)
@@ -37,6 +37,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
+| 52 | [N-Queens II](./52-n-queens-ii/) | Hard | java |
 
 ## Array
 
@@ -58,6 +59,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
+| 52 | [N-Queens II](./52-n-queens-ii/) | Hard | java |
 
 ## Binary Search
 
@@ -226,6 +228,7 @@
 |---|-------|------------|--------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | Array, Backtracking, Algorithm X | java |
+| 52 | [N-Queens II](./52-n-queens-ii/) | Hard | Backtracking, Algorithm X | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | Array, Hash Table, Linked List, Design, Hash Function | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | Hash Table, Linked List, Design, Doubly-Linked List | java |
