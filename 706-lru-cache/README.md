@@ -1,4 +1,4 @@
-# 706. Design HashMap
+# 146. LRU Cache
 
 **Difficulty:** Easy
 **Topics:** Hash Table, Linked List, Design, Doubly-Linked List
