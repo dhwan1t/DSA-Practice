@@ -1,10 +1,12 @@
 # LeetCode Solutions
 
-> **16** problems solved
+> **17** problems solved
 
 ## Topics
 
-- [Array](#array) (9)
+- [Algorithm X](#algorithm-x) (1)
+- [Array](#array) (10)
+- [Backtracking](#backtracking) (1)
 - [Binary Search](#binary-search) (1)
 - [Bit Manipulation](#bit-manipulation) (2)
 - [Bitmask](#bitmask) (2)
@@ -30,10 +32,17 @@
 - [Uncategorized](#uncategorized) (3)
 - [All Problems](#all-problems)
 
+## Algorithm X
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 51 | [N-Queens](./51-n-queens/) | Hard | java |
+
 ## Array
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 51 | [N-Queens](./51-n-queens/) | Hard | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | java |
@@ -43,6 +52,12 @@
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
+
+## Backtracking
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 51 | [N-Queens](./51-n-queens/) | Hard | java |
 
 ## Binary Search
 
@@ -210,6 +225,7 @@
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java |
+| 51 | [N-Queens](./51-n-queens/) | Hard | Array, Backtracking, Algorithm X | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | Array, Hash Table, Linked List, Design, Hash Function | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | Hash Table, Linked List, Design, Doubly-Linked List | java |
