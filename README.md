@@ -1,14 +1,14 @@
 # LeetCode Solutions
 
-> **18** problems solved
+> **19** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (2)
-- [Array](#array) (10)
-- [Backtracking](#backtracking) (2)
+- [Array](#array) (11)
+- [Backtracking](#backtracking) (3)
 - [Binary Search](#binary-search) (1)
-- [Bit Manipulation](#bit-manipulation) (2)
+- [Bit Manipulation](#bit-manipulation) (3)
 - [Bitmask](#bitmask) (2)
 - [Counting](#counting) (1)
 - [Database](#database) (1)
@@ -16,10 +16,12 @@
 - [Doubly-Linked List](#doubly-linked-list) (1)
 - [Dynamic Programming](#dynamic-programming) (4)
 - [Greedy](#greedy) (1)
+- [Hamiltonian Path](#hamiltonian-path) (1)
 - [Hash Function](#hash-function) (1)
 - [Hash Table](#hash-table) (7)
 - [Linked List](#linked-list) (2)
 - [Math](#math) (1)
+- [Matrix](#matrix) (1)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Ordered Set](#ordered-set) (1)
@@ -44,6 +46,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
+| 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | java |
@@ -60,6 +63,7 @@
 |---|-------|------------|----------|
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | java |
+| 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | java |
 
 ## Binary Search
 
@@ -71,6 +75,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 
@@ -121,6 +126,12 @@
 |---|-------|------------|----------|
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 
+## Hamiltonian Path
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | java |
+
 ## Hash Function
 
 | # | Title | Difficulty | Language |
@@ -151,6 +162,12 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
+
+## Matrix
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | java |
 
 ## Meet in the Middle
 
@@ -229,6 +246,7 @@
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | Array, Backtracking, Algorithm X | java |
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | Backtracking, Algorithm X | java |
+| 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | Array, Backtracking, Bit Manipulation, Matrix, Hamiltonian Path | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | Array, Hash Table, Linked List, Design, Hash Function | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | Hash Table, Linked List, Design, Doubly-Linked List | java |
