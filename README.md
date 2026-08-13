@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **20** problems solved
+> **21** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (2)
-- [Array](#array) (11)
+- [Array](#array) (12)
 - [Backtracking](#backtracking) (3)
 - [Binary Search](#binary-search) (1)
 - [Binary Search Tree](#binary-search-tree) (1)
@@ -21,18 +21,19 @@
 - [Greedy](#greedy) (1)
 - [Hamiltonian Path](#hamiltonian-path) (1)
 - [Hash Function](#hash-function) (1)
-- [Hash Table](#hash-table) (7)
-- [Heap (Priority Queue)](#heap-priority-queue) (1)
+- [Hash Table](#hash-table) (8)
+- [Heap (Priority Queue)](#heap-priority-queue) (2)
 - [Linked List](#linked-list) (2)
 - [Math](#math) (1)
 - [Matrix](#matrix) (1)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Ordered Set](#ordered-set) (1)
-- [Sliding Window](#sliding-window) (2)
+- [Sliding Window](#sliding-window) (3)
 - [Sorting](#sorting) (4)
 - [Stack](#stack) (1)
 - [String](#string) (3)
+- [Treap](#treap) (1)
 - [Tree](#tree) (1)
 - [Two Pointers](#two-pointers) (2)
 - [Union-Find](#union-find) (1)
@@ -53,6 +54,7 @@
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
+| 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
@@ -167,6 +169,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
+| 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
@@ -179,6 +182,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 703 | [Kth Largest Element in a Stream](./703-kth-largest-element-in-a-stream/) | Easy | java |
+| 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | java |
 
 ## Linked List
 
@@ -223,6 +227,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
+| 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 
 ## Sorting
@@ -247,6 +252,12 @@
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
+
+## Treap
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | java |
 
 ## Tree
 
@@ -285,6 +296,7 @@
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | Array, Backtracking, Bit Manipulation, Matrix, Hamiltonian Path | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
 | 703 | [Kth Largest Element in a Stream](./703-kth-largest-element-in-a-stream/) | Easy | Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream | java |
+| 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | Array, Hash Table, Sliding Window, Heap (Priority Queue), Treap | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | Array, Hash Table, Linked List, Design, Hash Function | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | Hash Table, Linked List, Design, Doubly-Linked List | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | Array, Dynamic Programming, Stack, Monotonic Stack | java |
