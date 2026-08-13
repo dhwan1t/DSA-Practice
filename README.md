@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **19** problems solved
+> **20** problems solved
 
 ## Topics
 
@@ -8,17 +8,21 @@
 - [Array](#array) (11)
 - [Backtracking](#backtracking) (3)
 - [Binary Search](#binary-search) (1)
+- [Binary Search Tree](#binary-search-tree) (1)
+- [Binary Tree](#binary-tree) (1)
 - [Bit Manipulation](#bit-manipulation) (3)
 - [Bitmask](#bitmask) (2)
 - [Counting](#counting) (1)
+- [Data Stream](#data-stream) (1)
 - [Database](#database) (1)
-- [Design](#design) (2)
+- [Design](#design) (3)
 - [Doubly-Linked List](#doubly-linked-list) (1)
 - [Dynamic Programming](#dynamic-programming) (4)
 - [Greedy](#greedy) (1)
 - [Hamiltonian Path](#hamiltonian-path) (1)
 - [Hash Function](#hash-function) (1)
 - [Hash Table](#hash-table) (7)
+- [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Linked List](#linked-list) (2)
 - [Math](#math) (1)
 - [Matrix](#matrix) (1)
@@ -29,6 +33,7 @@
 - [Sorting](#sorting) (4)
 - [Stack](#stack) (1)
 - [String](#string) (3)
+- [Tree](#tree) (1)
 - [Two Pointers](#two-pointers) (2)
 - [Union-Find](#union-find) (1)
 - [Uncategorized](#uncategorized) (3)
@@ -71,6 +76,18 @@
 |---|-------|------------|----------|
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 
+## Binary Search Tree
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 703 | [Kth Largest Element in a Stream](./703-kth-largest-element-in-a-stream/) | Easy | java |
+
+## Binary Tree
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 703 | [Kth Largest Element in a Stream](./703-kth-largest-element-in-a-stream/) | Easy | java |
+
 ## Bit Manipulation
 
 | # | Title | Difficulty | Language |
@@ -92,6 +109,12 @@
 |---|-------|------------|----------|
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 
+## Data Stream
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 703 | [Kth Largest Element in a Stream](./703-kth-largest-element-in-a-stream/) | Easy | java |
+
 ## Database
 
 | # | Title | Difficulty | Language |
@@ -102,6 +125,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 703 | [Kth Largest Element in a Stream](./703-kth-largest-element-in-a-stream/) | Easy | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
 
@@ -149,6 +173,12 @@
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-longest-consecutive-sequence/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
+
+## Heap (Priority Queue)
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 703 | [Kth Largest Element in a Stream](./703-kth-largest-element-in-a-stream/) | Easy | java |
 
 ## Linked List
 
@@ -218,6 +248,12 @@
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 
+## Tree
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 703 | [Kth Largest Element in a Stream](./703-kth-largest-element-in-a-stream/) | Easy | java |
+
 ## Two Pointers
 
 | # | Title | Difficulty | Language |
@@ -248,6 +284,7 @@
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | Backtracking, Algorithm X | java |
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | Array, Backtracking, Bit Manipulation, Matrix, Hamiltonian Path | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
+| 703 | [Kth Largest Element in a Stream](./703-kth-largest-element-in-a-stream/) | Easy | Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | Array, Hash Table, Linked List, Design, Hash Function | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | Hash Table, Linked List, Design, Doubly-Linked List | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | Array, Dynamic Programming, Stack, Monotonic Stack | java |
