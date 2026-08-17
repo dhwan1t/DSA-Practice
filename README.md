@@ -1,18 +1,19 @@
 # LeetCode Solutions
 
-> **21** problems solved
+> **22** problems solved
 
 ## Topics
 
-- [Algorithm X](#algorithm-x) (2)
-- [Array](#array) (12)
-- [Backtracking](#backtracking) (3)
+- [Algorithm X](#algorithm-x) (3)
+- [Array](#array) (13)
+- [Backtracking](#backtracking) (4)
 - [Binary Search](#binary-search) (1)
 - [Binary Search Tree](#binary-search-tree) (1)
 - [Binary Tree](#binary-tree) (1)
 - [Bit Manipulation](#bit-manipulation) (3)
 - [Bitmask](#bitmask) (2)
 - [Counting](#counting) (1)
+- [Dancing Links](#dancing-links) (1)
 - [Data Stream](#data-stream) (1)
 - [Database](#database) (1)
 - [Design](#design) (3)
@@ -21,11 +22,11 @@
 - [Greedy](#greedy) (1)
 - [Hamiltonian Path](#hamiltonian-path) (1)
 - [Hash Function](#hash-function) (1)
-- [Hash Table](#hash-table) (8)
+- [Hash Table](#hash-table) (9)
 - [Heap (Priority Queue)](#heap-priority-queue) (2)
 - [Linked List](#linked-list) (2)
 - [Math](#math) (1)
-- [Matrix](#matrix) (1)
+- [Matrix](#matrix) (2)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Ordered Set](#ordered-set) (1)
@@ -44,6 +45,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | java |
 
@@ -51,6 +53,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
@@ -68,6 +71,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | java |
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | java |
@@ -110,6 +114,12 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
+
+## Dancing Links
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 
 ## Data Stream
 
@@ -169,6 +179,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
+| 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
@@ -201,6 +212,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | java |
 
 ## Meet in the Middle
@@ -291,6 +303,7 @@
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java |
+| 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | Array, Hash Table, Backtracking, Matrix, Algorithm X, Dancing Links | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | Array, Backtracking, Algorithm X | java |
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | Backtracking, Algorithm X | java |
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | Array, Backtracking, Bit Manipulation, Matrix, Hamiltonian Path | java |
