@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **24** problems solved
+> **25** problems solved
 
 ## Topics
 
@@ -24,13 +24,14 @@
 - [Hash Function](#hash-function) (1)
 - [Hash Table](#hash-table) (9)
 - [Heap (Priority Queue)](#heap-priority-queue) (2)
-- [Linked List](#linked-list) (2)
-- [Math](#math) (1)
+- [Linked List](#linked-list) (3)
+- [Math](#math) (2)
 - [Matrix](#matrix) (2)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Ordered Set](#ordered-set) (1)
 - [Prefix Sum](#prefix-sum) (1)
+- [Recursion](#recursion) (1)
 - [Simulation](#simulation) (1)
 - [Sliding Window](#sliding-window) (3)
 - [Sorting](#sorting) (4)
@@ -206,6 +207,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 2 | [Add Two Numbers](./2-add-two-numbers/) | Medium | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
 
@@ -213,6 +215,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 2 | [Add Two Numbers](./2-add-two-numbers/) | Medium | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 
 ## Matrix
@@ -246,6 +249,12 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
+
+## Recursion
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 2 | [Add Two Numbers](./2-add-two-numbers/) | Medium | java |
 
 ## Simulation
 
@@ -321,6 +330,7 @@
 
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
+| 2 | [Add Two Numbers](./2-add-two-numbers/) | Medium | Linked List, Math, Recursion | java |
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java |
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | Array, Hash Table, Backtracking, Matrix, Algorithm X, Dancing Links | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | Array, Backtracking, Algorithm X | java |
