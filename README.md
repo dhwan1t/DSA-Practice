@@ -1,13 +1,13 @@
 # LeetCode Solutions
 
-> **22** problems solved
+> **23** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (13)
+- [Array](#array) (14)
 - [Backtracking](#backtracking) (4)
-- [Binary Search](#binary-search) (1)
+- [Binary Search](#binary-search) (2)
 - [Binary Search Tree](#binary-search-tree) (1)
 - [Binary Tree](#binary-tree) (1)
 - [Bit Manipulation](#bit-manipulation) (3)
@@ -18,8 +18,8 @@
 - [Database](#database) (1)
 - [Design](#design) (3)
 - [Doubly-Linked List](#doubly-linked-list) (1)
-- [Dynamic Programming](#dynamic-programming) (4)
-- [Greedy](#greedy) (1)
+- [Dynamic Programming](#dynamic-programming) (5)
+- [Greedy](#greedy) (2)
 - [Hamiltonian Path](#hamiltonian-path) (1)
 - [Hash Function](#hash-function) (1)
 - [Hash Table](#hash-table) (9)
@@ -30,6 +30,7 @@
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Ordered Set](#ordered-set) (1)
+- [Prefix Sum](#prefix-sum) (1)
 - [Sliding Window](#sliding-window) (3)
 - [Sorting](#sorting) (4)
 - [Stack](#stack) (1)
@@ -56,6 +57,7 @@
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | java |
+| 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
 | 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
@@ -80,6 +82,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 
 ## Binary Search Tree
@@ -151,6 +154,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
@@ -160,6 +164,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 
 ## Hamiltonian Path
@@ -234,6 +239,12 @@
 |---|-------|------------|----------|
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 
+## Prefix Sum
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
+
 ## Sliding Window
 
 | # | Title | Difficulty | Language |
@@ -307,6 +318,7 @@
 | 51 | [N-Queens](./51-n-queens/) | Hard | Array, Backtracking, Algorithm X | java |
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | Backtracking, Algorithm X | java |
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | Array, Backtracking, Bit Manipulation, Matrix, Hamiltonian Path | java |
+| 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
 | 703 | [Kth Largest Element in a Stream](./703-kth-largest-element-in-a-stream/) | Easy | Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream | java |
 | 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | Array, Hash Table, Sliding Window, Heap (Priority Queue), Treap | java |
