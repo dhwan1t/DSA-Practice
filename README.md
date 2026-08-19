@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **26** problems solved
+> **27** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (16)
+- [Array](#array) (17)
 - [Backtracking](#backtracking) (4)
 - [Binary Search](#binary-search) (3)
 - [Binary Search Tree](#binary-search-tree) (1)
@@ -35,12 +35,12 @@
 - [Recursion](#recursion) (1)
 - [Simulation](#simulation) (1)
 - [Sliding Window](#sliding-window) (3)
-- [Sorting](#sorting) (4)
+- [Sorting](#sorting) (5)
 - [Stack](#stack) (1)
 - [String](#string) (3)
 - [Treap](#treap) (1)
 - [Tree](#tree) (1)
-- [Two Pointers](#two-pointers) (2)
+- [Two Pointers](#two-pointers) (3)
 - [Union-Find](#union-find) (1)
 - [Uncategorized](#uncategorized) (3)
 - [All Problems](#all-problems)
@@ -58,6 +58,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 2 | [Add Two Numbers](./2-median-of-two-sorted-arrays/) | Medium | java |
+| 15 | [3Sum](./15-3sum/) | Medium | java |
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | java |
@@ -283,6 +284,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 15 | [3Sum](./15-3sum/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
@@ -318,6 +320,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 15 | [3Sum](./15-3sum/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 
@@ -342,6 +345,7 @@
 | 2 | [Add Two Numbers](./2-add-two-numbers/) | Medium | Linked List, Math, Recursion | java |
 | 2 | [Add Two Numbers](./2-median-of-two-sorted-arrays/) | Medium | Array, Binary Search, Divide and Conquer | java |
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java |
+| 15 | [3Sum](./15-3sum/) | Medium | Array, Two Pointers, Sorting | java |
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | Array, Hash Table, Backtracking, Matrix, Algorithm X, Dancing Links | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | Array, Backtracking, Algorithm X | java |
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | Backtracking, Algorithm X | java |
