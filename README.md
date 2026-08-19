@@ -1,16 +1,16 @@
 # LeetCode Solutions
 
-> **27** problems solved
+> **28** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (17)
+- [Array](#array) (18)
 - [Backtracking](#backtracking) (4)
 - [Binary Search](#binary-search) (3)
 - [Binary Search Tree](#binary-search-tree) (1)
 - [Binary Tree](#binary-tree) (1)
-- [Bit Manipulation](#bit-manipulation) (3)
+- [Bit Manipulation](#bit-manipulation) (4)
 - [Bitmask](#bitmask) (2)
 - [Counting](#counting) (1)
 - [Dancing Links](#dancing-links) (1)
@@ -20,10 +20,10 @@
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Doubly-Linked List](#doubly-linked-list) (1)
 - [Dynamic Programming](#dynamic-programming) (5)
-- [Greedy](#greedy) (2)
+- [Greedy](#greedy) (3)
 - [Hamiltonian Path](#hamiltonian-path) (1)
 - [Hash Function](#hash-function) (1)
-- [Hash Table](#hash-table) (9)
+- [Hash Table](#hash-table) (10)
 - [Heap (Priority Queue)](#heap-priority-queue) (2)
 - [Linked List](#linked-list) (3)
 - [Math](#math) (2)
@@ -68,6 +68,7 @@
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
+| 1386 | [Cinema Seat Allocation](./1386-cinema-seat-allocation/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-longest-consecutive-sequence/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | java |
@@ -109,6 +110,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | java |
+| 1386 | [Cinema Seat Allocation](./1386-cinema-seat-allocation/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 
@@ -178,6 +180,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
+| 1386 | [Cinema Seat Allocation](./1386-cinema-seat-allocation/) | Medium | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 
 ## Hamiltonian Path
@@ -202,6 +205,7 @@
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
+| 1386 | [Cinema Seat Allocation](./1386-cinema-seat-allocation/) | Medium | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-longest-consecutive-sequence/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
@@ -358,6 +362,7 @@
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | Hash Table, Linked List, Design, Doubly-Linked List | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | Array, Dynamic Programming, Stack, Monotonic Stack | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | Array, Hash Table, Sliding Window, Counting | java |
+| 1386 | [Cinema Seat Allocation](./1386-cinema-seat-allocation/) | Medium | Array, Hash Table, Greedy, Bit Manipulation | java |
 | 1683 | [Invalid Tweets](./1683-invalid-tweets/) | Easy | Database | mysql |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Bitmask | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-longest-consecutive-sequence/) | Hard | Array, Hash Table, Union-Find | java |
