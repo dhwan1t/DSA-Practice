@@ -1,13 +1,13 @@
 # LeetCode Solutions
 
-> **25** problems solved
+> **26** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (15)
+- [Array](#array) (16)
 - [Backtracking](#backtracking) (4)
-- [Binary Search](#binary-search) (2)
+- [Binary Search](#binary-search) (3)
 - [Binary Search Tree](#binary-search-tree) (1)
 - [Binary Tree](#binary-tree) (1)
 - [Bit Manipulation](#bit-manipulation) (3)
@@ -17,6 +17,7 @@
 - [Data Stream](#data-stream) (1)
 - [Database](#database) (1)
 - [Design](#design) (3)
+- [Divide and Conquer](#divide-and-conquer) (1)
 - [Doubly-Linked List](#doubly-linked-list) (1)
 - [Dynamic Programming](#dynamic-programming) (5)
 - [Greedy](#greedy) (2)
@@ -56,6 +57,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 2 | [Add Two Numbers](./2-median-of-two-sorted-arrays/) | Medium | java |
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | java |
@@ -85,6 +87,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 2 | [Add Two Numbers](./2-median-of-two-sorted-arrays/) | Medium | java |
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 
@@ -146,6 +149,12 @@
 | 703 | [Kth Largest Element in a Stream](./703-kth-largest-element-in-a-stream/) | Easy | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
+
+## Divide and Conquer
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 2 | [Add Two Numbers](./2-median-of-two-sorted-arrays/) | Medium | java |
 
 ## Doubly-Linked List
 
@@ -331,6 +340,7 @@
 | # | Title | Difficulty | Topics | Language |
 |---|-------|------------|--------|----------|
 | 2 | [Add Two Numbers](./2-add-two-numbers/) | Medium | Linked List, Math, Recursion | java |
+| 2 | [Add Two Numbers](./2-median-of-two-sorted-arrays/) | Medium | Array, Binary Search, Divide and Conquer | java |
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java |
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | Array, Hash Table, Backtracking, Matrix, Algorithm X, Dancing Links | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | Array, Backtracking, Algorithm X | java |
