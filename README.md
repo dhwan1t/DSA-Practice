@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **29** problems solved
+> **30** problems solved
 
 ## Topics
 
@@ -25,7 +25,7 @@
 - [Hash Function](#hash-function) (1)
 - [Hash Table](#hash-table) (11)
 - [Heap (Priority Queue)](#heap-priority-queue) (2)
-- [Linked List](#linked-list) (3)
+- [Linked List](#linked-list) (4)
 - [Math](#math) (2)
 - [Matrix](#matrix) (2)
 - [Meet in the Middle](#meet-in-the-middle) (2)
@@ -226,6 +226,7 @@
 | 2 | [Add Two Numbers](./2-add-two-numbers/) | Medium | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
+| 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | java |
 
 ## Math
 
@@ -370,6 +371,7 @@
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-longest-consecutive-sequence/) | Hard | Array, Hash Table, Union-Find | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | Array, Hash Table, String, Sorting | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Ordered Set, Bitmask | java |
+| 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Linked List | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | Math, String, Greedy | java |
 | 3069 | [Distribute Elements Into Two Arrays I](./3069-distribute-elements-into-two-arrays-i/) | Easy | Array, Simulation | java |
 | 3718 | [Smallest Missing Multiple of K](./3718-smallest-missing-multiple-of-k/) | Easy | Array, Hash Table | java |
