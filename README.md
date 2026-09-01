@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **31** problems solved
+> **32** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (20)
+- [Array](#array) (21)
 - [Backtracking](#backtracking) (4)
 - [Binary Search](#binary-search) (4)
 - [Binary Search Tree](#binary-search-tree) (1)
@@ -20,19 +20,24 @@
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Doubly-Linked List](#doubly-linked-list) (1)
 - [Dynamic Programming](#dynamic-programming) (5)
+- [Enumeration](#enumeration) (1)
 - [Greedy](#greedy) (3)
 - [Hamiltonian Path](#hamiltonian-path) (1)
 - [Hash Function](#hash-function) (1)
 - [Hash Table](#hash-table) (11)
 - [Heap (Priority Queue)](#heap-priority-queue) (2)
 - [Linked List](#linked-list) (4)
-- [Math](#math) (2)
+- [Math](#math) (3)
 - [Matrix](#matrix) (2)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Monotonic Stack](#monotonic-stack) (1)
+- [Number Theory](#number-theory) (1)
 - [Ordered Set](#ordered-set) (1)
 - [Prefix Sum](#prefix-sum) (2)
+- [Primality Test](#primality-test) (1)
+- [Prime Number Sieve](#prime-number-sieve) (1)
 - [Recursion](#recursion) (1)
+- [Sieve Theory](#sieve-theory) (1)
 - [Simulation](#simulation) (1)
 - [Sliding Window](#sliding-window) (4)
 - [Sorting](#sorting) (5)
@@ -62,6 +67,7 @@
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | java |
+| 204 | [Count Primes](./204-count-primes/) | Medium | java |
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
 | 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | java |
@@ -178,6 +184,12 @@
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 
+## Enumeration
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 204 | [Count Primes](./204-count-primes/) | Medium | java |
+
 ## Greedy
 
 | # | Title | Difficulty | Language |
@@ -235,6 +247,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 2 | [Add Two Numbers](./2-add-two-numbers/) | Medium | java |
+| 204 | [Count Primes](./204-count-primes/) | Medium | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 
 ## Matrix
@@ -257,6 +270,12 @@
 |---|-------|------------|----------|
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | java |
 
+## Number Theory
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 204 | [Count Primes](./204-count-primes/) | Medium | java |
+
 ## Ordered Set
 
 | # | Title | Difficulty | Language |
@@ -270,11 +289,29 @@
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
 | 1004 | [Max Consecutive Ones III](./1004-max-consecutive-ones-iii/) | Medium | java |
 
+## Primality Test
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 204 | [Count Primes](./204-count-primes/) | Medium | java |
+
+## Prime Number Sieve
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 204 | [Count Primes](./204-count-primes/) | Medium | java |
+
 ## Recursion
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 2 | [Add Two Numbers](./2-add-two-numbers/) | Medium | java |
+
+## Sieve Theory
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 204 | [Count Primes](./204-count-primes/) | Medium | java |
 
 ## Simulation
 
@@ -361,6 +398,7 @@
 | 51 | [N-Queens](./51-n-queens/) | Hard | Array, Backtracking, Algorithm X | java |
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | Backtracking, Algorithm X | java |
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | Array, Backtracking, Bit Manipulation, Matrix, Hamiltonian Path | java |
+| 204 | [Count Primes](./204-count-primes/) | Medium | Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve | java |
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
 | 703 | [Kth Largest Element in a Stream](./703-kth-largest-element-in-a-stream/) | Easy | Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream | java |
