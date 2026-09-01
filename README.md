@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **32** problems solved
+> **33** problems solved
 
 ## Topics
 
@@ -12,6 +12,7 @@
 - [Binary Tree](#binary-tree) (1)
 - [Bit Manipulation](#bit-manipulation) (4)
 - [Bitmask](#bitmask) (2)
+- [Brainteaser](#brainteaser) (1)
 - [Counting](#counting) (1)
 - [Dancing Links](#dancing-links) (1)
 - [Data Stream](#data-stream) (1)
@@ -19,15 +20,17 @@
 - [Design](#design) (3)
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Doubly-Linked List](#doubly-linked-list) (1)
-- [Dynamic Programming](#dynamic-programming) (5)
+- [Dynamic Programming](#dynamic-programming) (6)
 - [Enumeration](#enumeration) (1)
+- [Game Theory](#game-theory) (1)
 - [Greedy](#greedy) (3)
 - [Hamiltonian Path](#hamiltonian-path) (1)
 - [Hash Function](#hash-function) (1)
 - [Hash Table](#hash-table) (11)
 - [Heap (Priority Queue)](#heap-priority-queue) (2)
+- [Impartial Game](#impartial-game) (1)
 - [Linked List](#linked-list) (4)
-- [Math](#math) (3)
+- [Math](#math) (4)
 - [Matrix](#matrix) (2)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Monotonic Stack](#monotonic-stack) (1)
@@ -130,6 +133,12 @@
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 
+## Brainteaser
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 1025 | [Divisor Game](./1025-divisor-game/) | Easy | java |
+
 ## Counting
 
 | # | Title | Difficulty | Language |
@@ -181,6 +190,7 @@
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | java |
+| 1025 | [Divisor Game](./1025-divisor-game/) | Easy | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 
@@ -189,6 +199,12 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 204 | [Count Primes](./204-count-primes/) | Medium | java |
+
+## Game Theory
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 1025 | [Divisor Game](./1025-divisor-game/) | Easy | java |
 
 ## Greedy
 
@@ -233,6 +249,12 @@
 | 703 | [Kth Largest Element in a Stream](./703-kth-largest-element-in-a-stream/) | Easy | java |
 | 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | java |
 
+## Impartial Game
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 1025 | [Divisor Game](./1025-divisor-game/) | Easy | java |
+
 ## Linked List
 
 | # | Title | Difficulty | Language |
@@ -248,6 +270,7 @@
 |---|-------|------------|----------|
 | 2 | [Add Two Numbers](./2-add-two-numbers/) | Medium | java |
 | 204 | [Count Primes](./204-count-primes/) | Medium | java |
+| 1025 | [Divisor Game](./1025-divisor-game/) | Easy | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 
 ## Matrix
@@ -408,6 +431,7 @@
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | Array, Dynamic Programming, Stack, Monotonic Stack | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | Array, Hash Table, Sliding Window, Counting | java |
 | 1004 | [Max Consecutive Ones III](./1004-max-consecutive-ones-iii/) | Medium | Array, Binary Search, Sliding Window, Prefix Sum | java |
+| 1025 | [Divisor Game](./1025-divisor-game/) | Easy | Math, Dynamic Programming, Brainteaser, Game Theory, Impartial Game | java |
 | 1386 | [Cinema Seat Allocation](./1386-cinema-seat-allocation/) | Medium | Array, Hash Table, Greedy, Bit Manipulation | java |
 | 1683 | [Invalid Tweets](./1683-invalid-tweets/) | Easy | Database | mysql |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Bitmask | java |
