@@ -1,13 +1,13 @@
 # LeetCode Solutions
 
-> **30** problems solved
+> **31** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (19)
+- [Array](#array) (20)
 - [Backtracking](#backtracking) (4)
-- [Binary Search](#binary-search) (3)
+- [Binary Search](#binary-search) (4)
 - [Binary Search Tree](#binary-search-tree) (1)
 - [Binary Tree](#binary-tree) (1)
 - [Bit Manipulation](#bit-manipulation) (4)
@@ -31,10 +31,10 @@
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Ordered Set](#ordered-set) (1)
-- [Prefix Sum](#prefix-sum) (1)
+- [Prefix Sum](#prefix-sum) (2)
 - [Recursion](#recursion) (1)
 - [Simulation](#simulation) (1)
-- [Sliding Window](#sliding-window) (3)
+- [Sliding Window](#sliding-window) (4)
 - [Sorting](#sorting) (5)
 - [Stack](#stack) (1)
 - [String](#string) (3)
@@ -68,6 +68,7 @@
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
+| 1004 | [Max Consecutive Ones III](./1004-max-consecutive-ones-iii/) | Medium | java |
 | 1386 | [Cinema Seat Allocation](./1386-cinema-seat-allocation/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-longest-consecutive-sequence/) | Hard | java |
@@ -92,6 +93,7 @@
 |---|-------|------------|----------|
 | 2 | [Add Two Numbers](./2-median-of-two-sorted-arrays/) | Medium | java |
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
+| 1004 | [Max Consecutive Ones III](./1004-max-consecutive-ones-iii/) | Medium | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 
 ## Binary Search Tree
@@ -266,6 +268,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
+| 1004 | [Max Consecutive Ones III](./1004-max-consecutive-ones-iii/) | Medium | java |
 
 ## Recursion
 
@@ -286,6 +289,7 @@
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
 | 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
+| 1004 | [Max Consecutive Ones III](./1004-max-consecutive-ones-iii/) | Medium | java |
 
 ## Sorting
 
@@ -365,6 +369,7 @@
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | Hash Table, Linked List, Design, Doubly-Linked List | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | Array, Dynamic Programming, Stack, Monotonic Stack | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | Array, Hash Table, Sliding Window, Counting | java |
+| 1004 | [Max Consecutive Ones III](./1004-max-consecutive-ones-iii/) | Medium | Array, Binary Search, Sliding Window, Prefix Sum | java |
 | 1386 | [Cinema Seat Allocation](./1386-cinema-seat-allocation/) | Medium | Array, Hash Table, Greedy, Bit Manipulation | java |
 | 1683 | [Invalid Tweets](./1683-invalid-tweets/) | Easy | Database | mysql |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Bitmask | java |
