@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **33** problems solved
+> **34** problems solved
 
 ## Topics
 
@@ -20,7 +20,7 @@
 - [Design](#design) (3)
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Doubly-Linked List](#doubly-linked-list) (1)
-- [Dynamic Programming](#dynamic-programming) (6)
+- [Dynamic Programming](#dynamic-programming) (7)
 - [Enumeration](#enumeration) (1)
 - [Game Theory](#game-theory) (1)
 - [Greedy](#greedy) (3)
@@ -45,7 +45,7 @@
 - [Sliding Window](#sliding-window) (4)
 - [Sorting](#sorting) (5)
 - [Stack](#stack) (1)
-- [String](#string) (3)
+- [String](#string) (4)
 - [Treap](#treap) (1)
 - [Tree](#tree) (1)
 - [Two Pointers](#two-pointers) (3)
@@ -187,6 +187,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | java |
@@ -372,6 +373,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
+| 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 
@@ -421,6 +423,7 @@
 | 51 | [N-Queens](./51-n-queens/) | Hard | Array, Backtracking, Algorithm X | java |
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | Backtracking, Algorithm X | java |
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | Array, Backtracking, Bit Manipulation, Matrix, Hamiltonian Path | java |
+| 72 | [Edit Distance](./72-edit-distance/) | Medium | String, Dynamic Programming | java |
 | 204 | [Count Primes](./204-count-primes/) | Medium | Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve | java |
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
