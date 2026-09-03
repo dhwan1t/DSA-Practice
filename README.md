@@ -1,13 +1,13 @@
 # LeetCode Solutions
 
-> **35** problems solved
+> **36** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (21)
+- [Array](#array) (22)
 - [Backtracking](#backtracking) (4)
-- [Binary Search](#binary-search) (4)
+- [Binary Search](#binary-search) (5)
 - [Binary Search Tree](#binary-search-tree) (1)
 - [Binary Tree](#binary-tree) (1)
 - [Bit Manipulation](#bit-manipulation) (4)
@@ -20,7 +20,7 @@
 - [Design](#design) (3)
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Doubly-Linked List](#doubly-linked-list) (1)
-- [Dynamic Programming](#dynamic-programming) (8)
+- [Dynamic Programming](#dynamic-programming) (9)
 - [Enumeration](#enumeration) (1)
 - [Game Theory](#game-theory) (1)
 - [Greedy](#greedy) (3)
@@ -30,6 +30,7 @@
 - [Heap (Priority Queue)](#heap-priority-queue) (2)
 - [Impartial Game](#impartial-game) (1)
 - [Linked List](#linked-list) (4)
+- [Longest Increasing Subsequence](#longest-increasing-subsequence) (1)
 - [Math](#math) (4)
 - [Matrix](#matrix) (2)
 - [Meet in the Middle](#meet-in-the-middle) (2)
@@ -73,6 +74,7 @@
 | 204 | [Count Primes](./204-count-primes/) | Medium | java |
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
+| 647 | [Palindromic Substrings](./647-longest-increasing-subsequence/) | Medium | java |
 | 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | java |
@@ -102,6 +104,7 @@
 |---|-------|------------|----------|
 | 2 | [Add Two Numbers](./2-median-of-two-sorted-arrays/) | Medium | java |
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
+| 647 | [Palindromic Substrings](./647-longest-increasing-subsequence/) | Medium | java |
 | 1004 | [Max Consecutive Ones III](./1004-max-consecutive-ones-iii/) | Medium | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 
@@ -191,6 +194,7 @@
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
 | 647 | [Palindromic Substrings](./647-palindromic-substrings/) | Medium | java |
+| 647 | [Palindromic Substrings](./647-longest-increasing-subsequence/) | Medium | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | java |
 | 1025 | [Divisor Game](./1025-divisor-game/) | Easy | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
@@ -265,6 +269,12 @@
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | java |
+
+## Longest Increasing Subsequence
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 647 | [Palindromic Substrings](./647-longest-increasing-subsequence/) | Medium | java |
 
 ## Math
 
@@ -431,6 +441,7 @@
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
 | 647 | [Palindromic Substrings](./647-palindromic-substrings/) | Medium | Two Pointers, String, Dynamic Programming | java |
+| 647 | [Palindromic Substrings](./647-longest-increasing-subsequence/) | Medium | Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence | java |
 | 703 | [Kth Largest Element in a Stream](./703-kth-largest-element-in-a-stream/) | Easy | Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream | java |
 | 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | Array, Hash Table, Sliding Window, Heap (Priority Queue), Treap | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | Array, Hash Table, Linked List, Design, Hash Function | java |
