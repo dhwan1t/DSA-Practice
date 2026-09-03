@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **34** problems solved
+> **35** problems solved
 
 ## Topics
 
@@ -20,7 +20,7 @@
 - [Design](#design) (3)
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Doubly-Linked List](#doubly-linked-list) (1)
-- [Dynamic Programming](#dynamic-programming) (7)
+- [Dynamic Programming](#dynamic-programming) (8)
 - [Enumeration](#enumeration) (1)
 - [Game Theory](#game-theory) (1)
 - [Greedy](#greedy) (3)
@@ -45,10 +45,10 @@
 - [Sliding Window](#sliding-window) (4)
 - [Sorting](#sorting) (5)
 - [Stack](#stack) (1)
-- [String](#string) (4)
+- [String](#string) (5)
 - [Treap](#treap) (1)
 - [Tree](#tree) (1)
-- [Two Pointers](#two-pointers) (3)
+- [Two Pointers](#two-pointers) (4)
 - [Union-Find](#union-find) (1)
 - [Uncategorized](#uncategorized) (3)
 - [All Problems](#all-problems)
@@ -190,6 +190,7 @@
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
+| 647 | [Palindromic Substrings](./647-palindromic-substrings/) | Medium | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | java |
 | 1025 | [Divisor Game](./1025-divisor-game/) | Easy | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
@@ -374,6 +375,7 @@
 |---|-------|------------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
+| 647 | [Palindromic Substrings](./647-palindromic-substrings/) | Medium | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 
@@ -394,6 +396,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 15 | [3Sum](./15-3sum/) | Medium | java |
+| 647 | [Palindromic Substrings](./647-palindromic-substrings/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 
@@ -427,6 +430,7 @@
 | 204 | [Count Primes](./204-count-primes/) | Medium | Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve | java |
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
+| 647 | [Palindromic Substrings](./647-palindromic-substrings/) | Medium | Two Pointers, String, Dynamic Programming | java |
 | 703 | [Kth Largest Element in a Stream](./703-kth-largest-element-in-a-stream/) | Easy | Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream | java |
 | 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | Array, Hash Table, Sliding Window, Heap (Priority Queue), Treap | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | Array, Hash Table, Linked List, Design, Hash Function | java |
