@@ -1,17 +1,17 @@
 # LeetCode Solutions
 
-> **37** problems solved
+> **38** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (23)
-- [Backtracking](#backtracking) (5)
+- [Array](#array) (24)
+- [Backtracking](#backtracking) (6)
 - [Binary Search](#binary-search) (5)
 - [Binary Search Tree](#binary-search-tree) (1)
 - [Binary Tree](#binary-tree) (1)
-- [Bit Manipulation](#bit-manipulation) (5)
-- [Bitmask](#bitmask) (3)
+- [Bit Manipulation](#bit-manipulation) (6)
+- [Bitmask](#bitmask) (4)
 - [Brainteaser](#brainteaser) (1)
 - [Counting](#counting) (1)
 - [Dancing Links](#dancing-links) (1)
@@ -20,7 +20,7 @@
 - [Design](#design) (3)
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Doubly-Linked List](#doubly-linked-list) (1)
-- [Dynamic Programming](#dynamic-programming) (10)
+- [Dynamic Programming](#dynamic-programming) (11)
 - [Enumeration](#enumeration) (1)
 - [Game Theory](#game-theory) (1)
 - [Greedy](#greedy) (3)
@@ -75,6 +75,7 @@
 | 204 | [Count Primes](./204-count-primes/) | Medium | java |
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
+| 526 | [Beautiful Arrangement](./526-beautiful-arrangement/) | Medium | java |
 | 647 | [Palindromic Substrings](./647-longest-increasing-subsequence/) | Medium | java |
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 | 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | java |
@@ -99,6 +100,7 @@
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | java |
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | java |
+| 526 | [Beautiful Arrangement](./526-beautiful-arrangement/) | Medium | java |
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 
 ## Binary Search
@@ -128,6 +130,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | java |
+| 526 | [Beautiful Arrangement](./526-beautiful-arrangement/) | Medium | java |
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 | 1386 | [Cinema Seat Allocation](./1386-cinema-seat-allocation/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
@@ -137,6 +140,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 526 | [Beautiful Arrangement](./526-beautiful-arrangement/) | Medium | java |
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
@@ -198,6 +202,7 @@
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
+| 526 | [Beautiful Arrangement](./526-beautiful-arrangement/) | Medium | java |
 | 647 | [Palindromic Substrings](./647-palindromic-substrings/) | Medium | java |
 | 647 | [Palindromic Substrings](./647-longest-increasing-subsequence/) | Medium | java |
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
@@ -452,6 +457,7 @@
 | 204 | [Count Primes](./204-count-primes/) | Medium | Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve | java |
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
+| 526 | [Beautiful Arrangement](./526-beautiful-arrangement/) | Medium | Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask | java |
 | 647 | [Palindromic Substrings](./647-palindromic-substrings/) | Medium | Two Pointers, String, Dynamic Programming | java |
 | 647 | [Palindromic Substrings](./647-longest-increasing-subsequence/) | Medium | Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence | java |
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | Array, Dynamic Programming, Backtracking, Bit Manipulation, Memoization, Bitmask | java |
