@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **38** problems solved
+> **39** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (24)
+- [Array](#array) (25)
 - [Backtracking](#backtracking) (6)
 - [Binary Search](#binary-search) (5)
 - [Binary Search Tree](#binary-search-tree) (1)
@@ -26,7 +26,7 @@
 - [Greedy](#greedy) (3)
 - [Hamiltonian Path](#hamiltonian-path) (1)
 - [Hash Function](#hash-function) (1)
-- [Hash Table](#hash-table) (11)
+- [Hash Table](#hash-table) (12)
 - [Heap (Priority Queue)](#heap-priority-queue) (2)
 - [Impartial Game](#impartial-game) (1)
 - [Linked List](#linked-list) (4)
@@ -45,7 +45,7 @@
 - [Sieve Theory](#sieve-theory) (1)
 - [Simulation](#simulation) (1)
 - [Sliding Window](#sliding-window) (4)
-- [Sorting](#sorting) (5)
+- [Sorting](#sorting) (6)
 - [Stack](#stack) (1)
 - [String](#string) (5)
 - [Treap](#treap) (1)
@@ -73,6 +73,7 @@
 | 51 | [N-Queens](./51-n-queens/) | Hard | java |
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | java |
 | 204 | [Count Primes](./204-count-primes/) | Medium | java |
+| 217 | [Contains Duplicate](./217-contains-duplicate/) | Easy | java |
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
 | 526 | [Beautiful Arrangement](./526-beautiful-arrangement/) | Medium | java |
@@ -249,6 +250,7 @@
 |---|-------|------------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
+| 217 | [Contains Duplicate](./217-contains-duplicate/) | Easy | java |
 | 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
@@ -385,6 +387,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 15 | [3Sum](./15-3sum/) | Medium | java |
+| 217 | [Contains Duplicate](./217-contains-duplicate/) | Easy | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
@@ -455,6 +458,7 @@
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | Array, Backtracking, Bit Manipulation, Matrix, Hamiltonian Path | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | String, Dynamic Programming | java |
 | 204 | [Count Primes](./204-count-primes/) | Medium | Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve | java |
+| 217 | [Contains Duplicate](./217-contains-duplicate/) | Easy | Array, Hash Table, Sorting | java |
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
 | 526 | [Beautiful Arrangement](./526-beautiful-arrangement/) | Medium | Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask | java |
