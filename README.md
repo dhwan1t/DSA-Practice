@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **39** problems solved
+> **40** problems solved
 
 ## Topics
 
@@ -26,7 +26,7 @@
 - [Greedy](#greedy) (3)
 - [Hamiltonian Path](#hamiltonian-path) (1)
 - [Hash Function](#hash-function) (1)
-- [Hash Table](#hash-table) (12)
+- [Hash Table](#hash-table) (13)
 - [Heap (Priority Queue)](#heap-priority-queue) (2)
 - [Impartial Game](#impartial-game) (1)
 - [Linked List](#linked-list) (4)
@@ -45,9 +45,9 @@
 - [Sieve Theory](#sieve-theory) (1)
 - [Simulation](#simulation) (1)
 - [Sliding Window](#sliding-window) (4)
-- [Sorting](#sorting) (6)
+- [Sorting](#sorting) (7)
 - [Stack](#stack) (1)
-- [String](#string) (5)
+- [String](#string) (6)
 - [Treap](#treap) (1)
 - [Tree](#tree) (1)
 - [Two Pointers](#two-pointers) (4)
@@ -251,6 +251,7 @@
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 217 | [Contains Duplicate](./217-contains-duplicate/) | Easy | java |
+| 242 | [Valid Anagram](./242-valid-anagram/) | Easy | java |
 | 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
@@ -388,6 +389,7 @@
 |---|-------|------------|----------|
 | 15 | [3Sum](./15-3sum/) | Medium | java |
 | 217 | [Contains Duplicate](./217-contains-duplicate/) | Easy | java |
+| 242 | [Valid Anagram](./242-valid-anagram/) | Easy | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
@@ -405,6 +407,7 @@
 |---|-------|------------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
+| 242 | [Valid Anagram](./242-valid-anagram/) | Easy | java |
 | 647 | [Palindromic Substrings](./647-palindromic-substrings/) | Medium | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
@@ -459,6 +462,7 @@
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | String, Dynamic Programming | java |
 | 204 | [Count Primes](./204-count-primes/) | Medium | Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve | java |
 | 217 | [Contains Duplicate](./217-contains-duplicate/) | Easy | Array, Hash Table, Sorting | java |
+| 242 | [Valid Anagram](./242-valid-anagram/) | Easy | Hash Table, String, Sorting | java |
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
 | 526 | [Beautiful Arrangement](./526-beautiful-arrangement/) | Medium | Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask | java |
