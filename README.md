@@ -1,13 +1,14 @@
 # LeetCode Solutions
 
-> **40** problems solved
+> **41** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (25)
+- [Array](#array) (26)
 - [Backtracking](#backtracking) (6)
-- [Binary Search](#binary-search) (5)
+- [Binary Indexed Tree](#binary-indexed-tree) (1)
+- [Binary Search](#binary-search) (6)
 - [Binary Search Tree](#binary-search-tree) (1)
 - [Binary Tree](#binary-tree) (1)
 - [Bit Manipulation](#bit-manipulation) (6)
@@ -18,7 +19,7 @@
 - [Data Stream](#data-stream) (1)
 - [Database](#database) (1)
 - [Design](#design) (3)
-- [Divide and Conquer](#divide-and-conquer) (1)
+- [Divide and Conquer](#divide-and-conquer) (2)
 - [Doubly-Linked List](#doubly-linked-list) (1)
 - [Dynamic Programming](#dynamic-programming) (11)
 - [Enumeration](#enumeration) (1)
@@ -35,20 +36,22 @@
 - [Matrix](#matrix) (2)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Memoization](#memoization) (1)
+- [Merge Sort](#merge-sort) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Number Theory](#number-theory) (1)
-- [Ordered Set](#ordered-set) (1)
+- [Ordered Set](#ordered-set) (2)
 - [Prefix Sum](#prefix-sum) (2)
 - [Primality Test](#primality-test) (1)
 - [Prime Number Sieve](#prime-number-sieve) (1)
 - [Recursion](#recursion) (1)
+- [Segment Tree](#segment-tree) (1)
 - [Sieve Theory](#sieve-theory) (1)
 - [Simulation](#simulation) (1)
 - [Sliding Window](#sliding-window) (4)
 - [Sorting](#sorting) (7)
 - [Stack](#stack) (1)
 - [String](#string) (6)
-- [Treap](#treap) (1)
+- [Treap](#treap) (2)
 - [Tree](#tree) (1)
 - [Two Pointers](#two-pointers) (4)
 - [Union-Find](#union-find) (1)
@@ -76,6 +79,7 @@
 | 217 | [Contains Duplicate](./217-contains-duplicate/) | Easy | java |
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | java |
+| 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
 | 526 | [Beautiful Arrangement](./526-beautiful-arrangement/) | Medium | java |
 | 647 | [Palindromic Substrings](./647-longest-increasing-subsequence/) | Medium | java |
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
@@ -104,12 +108,19 @@
 | 526 | [Beautiful Arrangement](./526-beautiful-arrangement/) | Medium | java |
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 
+## Binary Indexed Tree
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
+
 ## Binary Search
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 2 | [Add Two Numbers](./2-median-of-two-sorted-arrays/) | Medium | java |
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
+| 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
 | 647 | [Palindromic Substrings](./647-longest-increasing-subsequence/) | Medium | java |
 | 1004 | [Max Consecutive Ones III](./1004-max-consecutive-ones-iii/) | Medium | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
@@ -189,6 +200,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 2 | [Add Two Numbers](./2-median-of-two-sorted-arrays/) | Medium | java |
+| 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
 
 ## Doubly-Linked List
 
@@ -319,6 +331,12 @@
 |---|-------|------------|----------|
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 
+## Merge Sort
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
+
 ## Monotonic Stack
 
 | # | Title | Difficulty | Language |
@@ -335,6 +353,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 
 ## Prefix Sum
@@ -361,6 +380,12 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 2 | [Add Two Numbers](./2-add-two-numbers/) | Medium | java |
+
+## Segment Tree
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
 
 ## Sieve Theory
 
@@ -416,6 +441,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
 | 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | java |
 
 ## Tree
@@ -465,6 +491,7 @@
 | 242 | [Valid Anagram](./242-valid-anagram/) | Easy | Hash Table, String, Sorting | java |
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum | java |
 | 493 | [Reverse Pairs](./493-frog-jump/) | Hard | Array, Dynamic Programming | java |
+| 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set, Treap | java |
 | 526 | [Beautiful Arrangement](./526-beautiful-arrangement/) | Medium | Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask | java |
 | 647 | [Palindromic Substrings](./647-palindromic-substrings/) | Medium | Two Pointers, String, Dynamic Programming | java |
 | 647 | [Palindromic Substrings](./647-longest-increasing-subsequence/) | Medium | Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence | java |
