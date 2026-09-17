@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **41** problems solved
+> **42** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (26)
+- [Array](#array) (27)
 - [Backtracking](#backtracking) (6)
 - [Binary Indexed Tree](#binary-indexed-tree) (1)
 - [Binary Search](#binary-search) (6)
@@ -14,6 +14,7 @@
 - [Bit Manipulation](#bit-manipulation) (6)
 - [Bitmask](#bitmask) (4)
 - [Brainteaser](#brainteaser) (1)
+- [Breadth-First Search](#breadth-first-search) (1)
 - [Counting](#counting) (1)
 - [Dancing Links](#dancing-links) (1)
 - [Data Stream](#data-stream) (1)
@@ -33,7 +34,7 @@
 - [Linked List](#linked-list) (4)
 - [Longest Increasing Subsequence](#longest-increasing-subsequence) (1)
 - [Math](#math) (4)
-- [Matrix](#matrix) (2)
+- [Matrix](#matrix) (3)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Memoization](#memoization) (1)
 - [Merge Sort](#merge-sort) (1)
@@ -87,6 +88,7 @@
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
+| 994 | [Rotting Oranges](./994-rotting-oranges/) | Medium | java |
 | 1004 | [Max Consecutive Ones III](./1004-max-consecutive-ones-iii/) | Medium | java |
 | 1386 | [Cinema Seat Allocation](./1386-cinema-seat-allocation/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
@@ -162,6 +164,12 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 1025 | [Divisor Game](./1025-divisor-game/) | Easy | java |
+
+## Breadth-First Search
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 994 | [Rotting Oranges](./994-rotting-oranges/) | Medium | java |
 
 ## Counting
 
@@ -317,6 +325,7 @@
 |---|-------|------------|----------|
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | java |
+| 994 | [Rotting Oranges](./994-rotting-oranges/) | Medium | java |
 
 ## Meet in the Middle
 
@@ -502,6 +511,7 @@
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | Hash Table, Linked List, Design, Doubly-Linked List | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | Array, Dynamic Programming, Stack, Monotonic Stack | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | Array, Hash Table, Sliding Window, Counting | java |
+| 994 | [Rotting Oranges](./994-rotting-oranges/) | Medium | Array, Breadth-First Search, Matrix | java |
 | 1004 | [Max Consecutive Ones III](./1004-max-consecutive-ones-iii/) | Medium | Array, Binary Search, Sliding Window, Prefix Sum | java |
 | 1025 | [Divisor Game](./1025-divisor-game/) | Easy | Math, Dynamic Programming, Brainteaser, Game Theory, Impartial Game | java |
 | 1386 | [Cinema Seat Allocation](./1386-cinema-seat-allocation/) | Medium | Array, Hash Table, Greedy, Bit Manipulation | java |
