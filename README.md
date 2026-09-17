@@ -1,11 +1,11 @@
 # LeetCode Solutions
 
-> **42** problems solved
+> **43** problems solved
 
 ## Topics
 
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (27)
+- [Array](#array) (28)
 - [Backtracking](#backtracking) (6)
 - [Binary Indexed Tree](#binary-indexed-tree) (1)
 - [Binary Search](#binary-search) (6)
@@ -14,7 +14,7 @@
 - [Bit Manipulation](#bit-manipulation) (6)
 - [Bitmask](#bitmask) (4)
 - [Brainteaser](#brainteaser) (1)
-- [Breadth-First Search](#breadth-first-search) (1)
+- [Breadth-First Search](#breadth-first-search) (2)
 - [Counting](#counting) (1)
 - [Dancing Links](#dancing-links) (1)
 - [Data Stream](#data-stream) (1)
@@ -22,7 +22,7 @@
 - [Design](#design) (3)
 - [Divide and Conquer](#divide-and-conquer) (2)
 - [Doubly-Linked List](#doubly-linked-list) (1)
-- [Dynamic Programming](#dynamic-programming) (11)
+- [Dynamic Programming](#dynamic-programming) (12)
 - [Enumeration](#enumeration) (1)
 - [Game Theory](#game-theory) (1)
 - [Greedy](#greedy) (3)
@@ -34,7 +34,7 @@
 - [Linked List](#linked-list) (4)
 - [Longest Increasing Subsequence](#longest-increasing-subsequence) (1)
 - [Math](#math) (4)
-- [Matrix](#matrix) (3)
+- [Matrix](#matrix) (4)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Memoization](#memoization) (1)
 - [Merge Sort](#merge-sort) (1)
@@ -90,6 +90,7 @@
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 | 994 | [Rotting Oranges](./994-rotting-oranges/) | Medium | java |
 | 1004 | [Max Consecutive Ones III](./1004-max-consecutive-ones-iii/) | Medium | java |
+| 1162 | [As Far from Land as Possible](./1162-as-far-from-land-as-possible/) | Medium | java |
 | 1386 | [Cinema Seat Allocation](./1386-cinema-seat-allocation/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-longest-consecutive-sequence/) | Hard | java |
@@ -170,6 +171,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 994 | [Rotting Oranges](./994-rotting-oranges/) | Medium | java |
+| 1162 | [As Far from Land as Possible](./1162-as-far-from-land-as-possible/) | Medium | java |
 
 ## Counting
 
@@ -229,6 +231,7 @@
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | java |
 | 1025 | [Divisor Game](./1025-divisor-game/) | Easy | java |
+| 1162 | [As Far from Land as Possible](./1162-as-far-from-land-as-possible/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
 
@@ -326,6 +329,7 @@
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | java |
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | java |
 | 994 | [Rotting Oranges](./994-rotting-oranges/) | Medium | java |
+| 1162 | [As Far from Land as Possible](./1162-as-far-from-land-as-possible/) | Medium | java |
 
 ## Meet in the Middle
 
@@ -514,6 +518,7 @@
 | 994 | [Rotting Oranges](./994-rotting-oranges/) | Medium | Array, Breadth-First Search, Matrix | java |
 | 1004 | [Max Consecutive Ones III](./1004-max-consecutive-ones-iii/) | Medium | Array, Binary Search, Sliding Window, Prefix Sum | java |
 | 1025 | [Divisor Game](./1025-divisor-game/) | Easy | Math, Dynamic Programming, Brainteaser, Game Theory, Impartial Game | java |
+| 1162 | [As Far from Land as Possible](./1162-as-far-from-land-as-possible/) | Medium | Array, Dynamic Programming, Breadth-First Search, Matrix | java |
 | 1386 | [Cinema Seat Allocation](./1386-cinema-seat-allocation/) | Medium | Array, Hash Table, Greedy, Bit Manipulation | java |
 | 1683 | [Invalid Tweets](./1683-invalid-tweets/) | Easy | Database | mysql |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Bitmask | java |
