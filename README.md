@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **43** problems solved
+> **44** problems solved
 
 ## Topics
 
@@ -14,22 +14,25 @@
 - [Bit Manipulation](#bit-manipulation) (6)
 - [Bitmask](#bitmask) (4)
 - [Brainteaser](#brainteaser) (1)
-- [Breadth-First Search](#breadth-first-search) (2)
+- [Breadth-First Search](#breadth-first-search) (3)
 - [Counting](#counting) (1)
 - [Dancing Links](#dancing-links) (1)
 - [Data Stream](#data-stream) (1)
 - [Database](#database) (1)
+- [Depth-First Search](#depth-first-search) (1)
 - [Design](#design) (3)
+- [Dijkstra's Algorithm](#dijkstra-s-algorithm) (1)
 - [Divide and Conquer](#divide-and-conquer) (2)
 - [Doubly-Linked List](#doubly-linked-list) (1)
 - [Dynamic Programming](#dynamic-programming) (12)
 - [Enumeration](#enumeration) (1)
 - [Game Theory](#game-theory) (1)
+- [Graph Theory](#graph-theory) (1)
 - [Greedy](#greedy) (3)
 - [Hamiltonian Path](#hamiltonian-path) (1)
 - [Hash Function](#hash-function) (1)
 - [Hash Table](#hash-table) (13)
-- [Heap (Priority Queue)](#heap-priority-queue) (2)
+- [Heap (Priority Queue)](#heap-priority-queue) (3)
 - [Impartial Game](#impartial-game) (1)
 - [Linked List](#linked-list) (4)
 - [Longest Increasing Subsequence](#longest-increasing-subsequence) (1)
@@ -46,6 +49,7 @@
 - [Prime Number Sieve](#prime-number-sieve) (1)
 - [Recursion](#recursion) (1)
 - [Segment Tree](#segment-tree) (1)
+- [Shortest Path](#shortest-path) (1)
 - [Sieve Theory](#sieve-theory) (1)
 - [Simulation](#simulation) (1)
 - [Sliding Window](#sliding-window) (4)
@@ -170,6 +174,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
 | 994 | [Rotting Oranges](./994-rotting-oranges/) | Medium | java |
 | 1162 | [As Far from Land as Possible](./1162-as-far-from-land-as-possible/) | Medium | java |
 
@@ -197,6 +202,12 @@
 |---|-------|------------|----------|
 | 1683 | [Invalid Tweets](./1683-invalid-tweets/) | Easy | mysql |
 
+## Depth-First Search
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
+
 ## Design
 
 | # | Title | Difficulty | Language |
@@ -204,6 +215,12 @@
 | 703 | [Kth Largest Element in a Stream](./703-kth-largest-element-in-a-stream/) | Easy | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
+
+## Dijkstra's Algorithm
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
 
 ## Divide and Conquer
 
@@ -246,6 +263,12 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 1025 | [Divisor Game](./1025-divisor-game/) | Easy | java |
+
+## Graph Theory
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
 
 ## Greedy
 
@@ -291,6 +314,7 @@
 |---|-------|------------|----------|
 | 703 | [Kth Largest Element in a Stream](./703-kth-largest-element-in-a-stream/) | Easy | java |
 | 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | java |
+| 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
 
 ## Impartial Game
 
@@ -399,6 +423,12 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
+
+## Shortest Path
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
 
 ## Sieve Theory
 
@@ -513,6 +543,7 @@
 | 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | Array, Hash Table, Sliding Window, Heap (Priority Queue), Treap | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | Array, Hash Table, Linked List, Design, Hash Function | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | Hash Table, Linked List, Design, Doubly-Linked List | java |
+| 743 | [Network Delay Time](./743-network-delay-time/) | Medium | Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Shortest Path, Dijkstra's Algorithm | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | Array, Dynamic Programming, Stack, Monotonic Stack | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | Array, Hash Table, Sliding Window, Counting | java |
 | 994 | [Rotting Oranges](./994-rotting-oranges/) | Medium | Array, Breadth-First Search, Matrix | java |
