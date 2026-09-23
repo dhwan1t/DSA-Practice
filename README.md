@@ -1,11 +1,12 @@
 # LeetCode Solutions
 
-> **44** problems solved
+> **45** problems solved
 
 ## Topics
 
+- [0-1 BFS](#0-1-bfs) (1)
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (28)
+- [Array](#array) (29)
 - [Backtracking](#backtracking) (6)
 - [Binary Indexed Tree](#binary-indexed-tree) (1)
 - [Binary Search](#binary-search) (6)
@@ -14,30 +15,30 @@
 - [Bit Manipulation](#bit-manipulation) (6)
 - [Bitmask](#bitmask) (4)
 - [Brainteaser](#brainteaser) (1)
-- [Breadth-First Search](#breadth-first-search) (3)
+- [Breadth-First Search](#breadth-first-search) (4)
 - [Counting](#counting) (1)
 - [Dancing Links](#dancing-links) (1)
 - [Data Stream](#data-stream) (1)
 - [Database](#database) (1)
 - [Depth-First Search](#depth-first-search) (1)
 - [Design](#design) (3)
-- [Dijkstra's Algorithm](#dijkstra-s-algorithm) (1)
+- [Dijkstra's Algorithm](#dijkstra-s-algorithm) (2)
 - [Divide and Conquer](#divide-and-conquer) (2)
 - [Doubly-Linked List](#doubly-linked-list) (1)
 - [Dynamic Programming](#dynamic-programming) (12)
 - [Enumeration](#enumeration) (1)
 - [Game Theory](#game-theory) (1)
-- [Graph Theory](#graph-theory) (1)
+- [Graph Theory](#graph-theory) (2)
 - [Greedy](#greedy) (3)
 - [Hamiltonian Path](#hamiltonian-path) (1)
 - [Hash Function](#hash-function) (1)
 - [Hash Table](#hash-table) (13)
-- [Heap (Priority Queue)](#heap-priority-queue) (3)
+- [Heap (Priority Queue)](#heap-priority-queue) (4)
 - [Impartial Game](#impartial-game) (1)
 - [Linked List](#linked-list) (4)
 - [Longest Increasing Subsequence](#longest-increasing-subsequence) (1)
 - [Math](#math) (4)
-- [Matrix](#matrix) (4)
+- [Matrix](#matrix) (5)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Memoization](#memoization) (1)
 - [Merge Sort](#merge-sort) (1)
@@ -49,7 +50,7 @@
 - [Prime Number Sieve](#prime-number-sieve) (1)
 - [Recursion](#recursion) (1)
 - [Segment Tree](#segment-tree) (1)
-- [Shortest Path](#shortest-path) (1)
+- [Shortest Path](#shortest-path) (2)
 - [Sieve Theory](#sieve-theory) (1)
 - [Simulation](#simulation) (1)
 - [Sliding Window](#sliding-window) (4)
@@ -62,6 +63,12 @@
 - [Union-Find](#union-find) (1)
 - [Uncategorized](#uncategorized) (3)
 - [All Problems](#all-problems)
+
+## 0-1 BFS
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-obstacle-removal-to-reach-corner/) | Hard | java |
 
 ## Algorithm X
 
@@ -100,6 +107,7 @@
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-longest-consecutive-sequence/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
+| 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-obstacle-removal-to-reach-corner/) | Hard | java |
 | 3069 | [Distribute Elements Into Two Arrays I](./3069-distribute-elements-into-two-arrays-i/) | Easy | java |
 | 3718 | [Smallest Missing Multiple of K](./3718-smallest-missing-multiple-of-k/) | Easy | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
@@ -177,6 +185,7 @@
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
 | 994 | [Rotting Oranges](./994-rotting-oranges/) | Medium | java |
 | 1162 | [As Far from Land as Possible](./1162-as-far-from-land-as-possible/) | Medium | java |
+| 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-obstacle-removal-to-reach-corner/) | Hard | java |
 
 ## Counting
 
@@ -221,6 +230,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
+| 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-obstacle-removal-to-reach-corner/) | Hard | java |
 
 ## Divide and Conquer
 
@@ -269,6 +279,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
+| 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-obstacle-removal-to-reach-corner/) | Hard | java |
 
 ## Greedy
 
@@ -315,6 +326,7 @@
 | 703 | [Kth Largest Element in a Stream](./703-kth-largest-element-in-a-stream/) | Easy | java |
 | 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | java |
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
+| 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-obstacle-removal-to-reach-corner/) | Hard | java |
 
 ## Impartial Game
 
@@ -354,6 +366,7 @@
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | java |
 | 994 | [Rotting Oranges](./994-rotting-oranges/) | Medium | java |
 | 1162 | [As Far from Land as Possible](./1162-as-far-from-land-as-possible/) | Medium | java |
+| 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-obstacle-removal-to-reach-corner/) | Hard | java |
 
 ## Meet in the Middle
 
@@ -429,6 +442,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
+| 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-obstacle-removal-to-reach-corner/) | Hard | java |
 
 ## Sieve Theory
 
@@ -557,6 +571,7 @@
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | Array, Hash Table, String, Sorting | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Ordered Set, Bitmask | java |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Linked List | java |
+| 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-obstacle-removal-to-reach-corner/) | Hard | Array, Breadth-First Search, Graph Theory, Heap (Priority Queue), Matrix, Shortest Path, 0-1 BFS, Dijkstra's Algorithm | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | Math, String, Greedy | java |
 | 3069 | [Distribute Elements Into Two Arrays I](./3069-distribute-elements-into-two-arrays-i/) | Easy | Array, Simulation | java |
 | 3718 | [Smallest Missing Multiple of K](./3718-smallest-missing-multiple-of-k/) | Easy | Array, Hash Table | java |
