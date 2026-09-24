@@ -1,12 +1,12 @@
 # LeetCode Solutions
 
-> **46** problems solved
+> **47** problems solved
 
 ## Topics
 
 - [0-1 BFS](#0-1-bfs) (2)
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (30)
+- [Array](#array) (31)
 - [Backtracking](#backtracking) (6)
 - [Binary Indexed Tree](#binary-indexed-tree) (1)
 - [Binary Search](#binary-search) (6)
@@ -37,7 +37,7 @@
 - [Impartial Game](#impartial-game) (1)
 - [Linked List](#linked-list) (4)
 - [Longest Increasing Subsequence](#longest-increasing-subsequence) (1)
-- [Math](#math) (4)
+- [Math](#math) (5)
 - [Matrix](#matrix) (6)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Memoization](#memoization) (1)
@@ -111,6 +111,7 @@
 | 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-obstacle-removal-to-reach-corner/) | Hard | java |
 | 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard | java |
 | 3069 | [Distribute Elements Into Two Arrays I](./3069-distribute-elements-into-two-arrays-i/) | Easy | java |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](./3550-smallest-index-with-digit-sum-equal-to-index/) | Easy | java |
 | 3718 | [Smallest Missing Multiple of K](./3718-smallest-missing-multiple-of-k/) | Easy | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | java |
 
@@ -363,6 +364,7 @@
 | 204 | [Count Primes](./204-count-primes/) | Medium | java |
 | 1025 | [Divisor Game](./1025-divisor-game/) | Easy | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](./3550-smallest-index-with-digit-sum-equal-to-index/) | Easy | java |
 
 ## Matrix
 
@@ -583,6 +585,7 @@
 | 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard | Array, Breadth-First Search, Graph Theory, Heap (Priority Queue), Matrix, Shortest Path, 0-1 BFS, Dijkstra's Algorithm | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | Math, String, Greedy | java |
 | 3069 | [Distribute Elements Into Two Arrays I](./3069-distribute-elements-into-two-arrays-i/) | Easy | Array, Simulation | java |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](./3550-smallest-index-with-digit-sum-equal-to-index/) | Easy | Array, Math | java |
 | 3718 | [Smallest Missing Multiple of K](./3718-smallest-missing-multiple-of-k/) | Easy | Array, Hash Table | java |
 | 3731 | [Find Missing Elements](./3731-find-missing-elements/) | Easy | Array, Hash Table, Sorting | java |
 | 4010 | [Maximize Pair Strength Using GCD](./4010-maximize-pair-strength-using-gcd/) | Easy | - | java |
