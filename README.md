@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **48** problems solved
+> **49** problems solved
 
 ## Topics
 
@@ -15,6 +15,7 @@
 - [Binary Tree](#binary-tree) (1)
 - [Bit Manipulation](#bit-manipulation) (6)
 - [Bitmask](#bitmask) (4)
+- [Bracket Sequences](#bracket-sequences) (1)
 - [Brainteaser](#brainteaser) (1)
 - [Breadth-First Search](#breadth-first-search) (5)
 - [Counting](#counting) (1)
@@ -57,8 +58,8 @@
 - [Simulation](#simulation) (1)
 - [Sliding Window](#sliding-window) (4)
 - [Sorting](#sorting) (7)
-- [Stack](#stack) (1)
-- [String](#string) (6)
+- [Stack](#stack) (2)
+- [String](#string) (7)
 - [Treap](#treap) (2)
 - [Tree](#tree) (1)
 - [Two Pointers](#two-pointers) (4)
@@ -182,6 +183,12 @@
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
+
+## Bracket Sequences
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | java |
 
 ## Brainteaser
 
@@ -510,6 +517,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | java |
+| 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | java |
 
 ## String
 
@@ -519,6 +527,7 @@
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
 | 242 | [Valid Anagram](./242-valid-anagram/) | Easy | java |
 | 647 | [Palindromic Substrings](./647-palindromic-substrings/) | Medium | java |
+| 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | java |
 
@@ -594,6 +603,7 @@
 | 1162 | [As Far from Land as Possible](./1162-as-far-from-land-as-possible/) | Medium | Array, Dynamic Programming, Breadth-First Search, Matrix | java |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | Dynamic Programming, Graph Theory, Shortest Path, Dijkstra's Algorithm, Bellman–Ford Algorithm, Floyd–Warshall Algorithm | java |
 | 1386 | [Cinema Seat Allocation](./1386-cinema-seat-allocation/) | Medium | Array, Hash Table, Greedy, Bit Manipulation | java |
+| 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | String, Stack, Bracket Sequences | java |
 | 1683 | [Invalid Tweets](./1683-invalid-tweets/) | Easy | Database | mysql |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | Array, Two Pointers, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Bitmask | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-longest-consecutive-sequence/) | Hard | Array, Hash Table, Union-Find | java |
