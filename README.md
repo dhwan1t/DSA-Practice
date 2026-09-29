@@ -1,12 +1,12 @@
 # LeetCode Solutions
 
-> **49** problems solved
+> **50** problems solved
 
 ## Topics
 
 - [0-1 BFS](#0-1-bfs) (2)
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (31)
+- [Array](#array) (32)
 - [Backtracking](#backtracking) (6)
 - [Bellman–Ford Algorithm](#bellman-ford-algorithm) (1)
 - [Binary Indexed Tree](#binary-indexed-tree) (1)
@@ -15,7 +15,7 @@
 - [Binary Tree](#binary-tree) (1)
 - [Bit Manipulation](#bit-manipulation) (6)
 - [Bitmask](#bitmask) (4)
-- [Bracket Sequences](#bracket-sequences) (1)
+- [Bracket Sequences](#bracket-sequences) (2)
 - [Brainteaser](#brainteaser) (1)
 - [Breadth-First Search](#breadth-first-search) (5)
 - [Counting](#counting) (1)
@@ -27,7 +27,7 @@
 - [Dijkstra's Algorithm](#dijkstra-s-algorithm) (4)
 - [Divide and Conquer](#divide-and-conquer) (2)
 - [Doubly-Linked List](#doubly-linked-list) (1)
-- [Dynamic Programming](#dynamic-programming) (13)
+- [Dynamic Programming](#dynamic-programming) (14)
 - [Enumeration](#enumeration) (1)
 - [Floyd–Warshall Algorithm](#floyd-warshall-algorithm) (1)
 - [Game Theory](#game-theory) (1)
@@ -41,7 +41,7 @@
 - [Linked List](#linked-list) (4)
 - [Longest Increasing Subsequence](#longest-increasing-subsequence) (1)
 - [Math](#math) (5)
-- [Matrix](#matrix) (6)
+- [Matrix](#matrix) (7)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Memoization](#memoization) (1)
 - [Merge Sort](#merge-sort) (1)
@@ -111,6 +111,7 @@
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-longest-consecutive-sequence/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
+| 2267 | [ Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard | java |
 | 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-obstacle-removal-to-reach-corner/) | Hard | java |
 | 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard | java |
 | 3069 | [Distribute Elements Into Two Arrays I](./3069-distribute-elements-into-two-arrays-i/) | Easy | java |
@@ -189,6 +190,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | java |
+| 2267 | [ Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard | java |
 
 ## Brainteaser
 
@@ -283,6 +285,7 @@
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
+| 2267 | [ Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard | java |
 
 ## Enumeration
 
@@ -398,6 +401,7 @@
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | java |
 | 994 | [Rotting Oranges](./994-rotting-oranges/) | Medium | java |
 | 1162 | [As Far from Land as Possible](./1162-as-far-from-land-as-possible/) | Medium | java |
+| 2267 | [ Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard | java |
 | 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-obstacle-removal-to-reach-corner/) | Hard | java |
 | 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard | java |
 
@@ -610,6 +614,7 @@
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-group-anagrams/) | Hard | Array, Hash Table, String, Sorting | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Ordered Set, Bitmask | java |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | Linked List | java |
+| 2267 | [ Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard | Array, Dynamic Programming, Matrix, Bracket Sequences | java |
 | 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-obstacle-removal-to-reach-corner/) | Hard | Array, Breadth-First Search, Graph Theory, Heap (Priority Queue), Matrix, Shortest Path, 0-1 BFS, Dijkstra's Algorithm | java |
 | 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard | Array, Breadth-First Search, Graph Theory, Heap (Priority Queue), Matrix, Shortest Path, 0-1 BFS, Dijkstra's Algorithm | java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/) | Easy | Math, String, Greedy | java |
