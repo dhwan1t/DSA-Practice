@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **50** problems solved
+> **51** problems solved
 
 ## Topics
 
@@ -17,26 +17,26 @@
 - [Bitmask](#bitmask) (4)
 - [Bracket Sequences](#bracket-sequences) (2)
 - [Brainteaser](#brainteaser) (1)
-- [Breadth-First Search](#breadth-first-search) (5)
+- [Breadth-First Search](#breadth-first-search) (6)
 - [Counting](#counting) (1)
 - [Dancing Links](#dancing-links) (1)
 - [Data Stream](#data-stream) (1)
 - [Database](#database) (1)
-- [Depth-First Search](#depth-first-search) (1)
+- [Depth-First Search](#depth-first-search) (2)
 - [Design](#design) (3)
 - [Dijkstra's Algorithm](#dijkstra-s-algorithm) (4)
 - [Divide and Conquer](#divide-and-conquer) (2)
 - [Doubly-Linked List](#doubly-linked-list) (1)
-- [Dynamic Programming](#dynamic-programming) (14)
+- [Dynamic Programming](#dynamic-programming) (15)
 - [Enumeration](#enumeration) (1)
 - [Floyd–Warshall Algorithm](#floyd-warshall-algorithm) (1)
 - [Game Theory](#game-theory) (1)
-- [Graph Theory](#graph-theory) (4)
+- [Graph Theory](#graph-theory) (5)
 - [Greedy](#greedy) (3)
 - [Hamiltonian Path](#hamiltonian-path) (1)
 - [Hash Function](#hash-function) (1)
 - [Hash Table](#hash-table) (13)
-- [Heap (Priority Queue)](#heap-priority-queue) (5)
+- [Heap (Priority Queue)](#heap-priority-queue) (6)
 - [Impartial Game](#impartial-game) (1)
 - [Linked List](#linked-list) (4)
 - [Longest Increasing Subsequence](#longest-increasing-subsequence) (1)
@@ -53,7 +53,7 @@
 - [Prime Number Sieve](#prime-number-sieve) (1)
 - [Recursion](#recursion) (1)
 - [Segment Tree](#segment-tree) (1)
-- [Shortest Path](#shortest-path) (4)
+- [Shortest Path](#shortest-path) (5)
 - [Sieve Theory](#sieve-theory) (1)
 - [Simulation](#simulation) (1)
 - [Sliding Window](#sliding-window) (4)
@@ -203,6 +203,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
+| 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
 | 994 | [Rotting Oranges](./994-rotting-oranges/) | Medium | java |
 | 1162 | [As Far from Land as Possible](./1162-as-far-from-land-as-possible/) | Medium | java |
 | 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-obstacle-removal-to-reach-corner/) | Hard | java |
@@ -237,6 +238,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
+| 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
 
 ## Design
 
@@ -279,6 +281,7 @@
 | 647 | [Palindromic Substrings](./647-palindromic-substrings/) | Medium | java |
 | 647 | [Palindromic Substrings](./647-longest-increasing-subsequence/) | Medium | java |
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
+| 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | java |
 | 1025 | [Divisor Game](./1025-divisor-game/) | Easy | java |
 | 1162 | [As Far from Land as Possible](./1162-as-far-from-land-as-possible/) | Medium | java |
@@ -310,6 +313,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
+| 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | java |
 | 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-obstacle-removal-to-reach-corner/) | Hard | java |
 | 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard | java |
@@ -359,6 +363,7 @@
 | 703 | [Kth Largest Element in a Stream](./703-kth-largest-element-in-a-stream/) | Easy | java |
 | 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | java |
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
+| 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
 | 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-obstacle-removal-to-reach-corner/) | Hard | java |
 | 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard | java |
 
@@ -479,6 +484,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
+| 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | java |
 | 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-obstacle-removal-to-reach-corner/) | Hard | java |
 | 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard | java |
@@ -599,6 +605,7 @@
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | Array, Hash Table, Linked List, Design, Hash Function | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | Hash Table, Linked List, Design, Doubly-Linked List | java |
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Shortest Path, Dijkstra's Algorithm | java |
+| 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Shortest Path | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | Array, Dynamic Programming, Stack, Monotonic Stack | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | Array, Hash Table, Sliding Window, Counting | java |
 | 994 | [Rotting Oranges](./994-rotting-oranges/) | Medium | Array, Breadth-First Search, Matrix | java |
