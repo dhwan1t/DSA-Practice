@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **52** problems solved
+> **53** problems solved
 
 ## Topics
 
@@ -16,7 +16,7 @@
 - [Bit Manipulation](#bit-manipulation) (6)
 - [Bitmask](#bitmask) (4)
 - [Borůvka's Algorithm](#bor-vka-s-algorithm) (1)
-- [Bracket Sequences](#bracket-sequences) (2)
+- [Bracket Sequences](#bracket-sequences) (3)
 - [Brainteaser](#brainteaser) (1)
 - [Breadth-First Search](#breadth-first-search) (6)
 - [Counting](#counting) (1)
@@ -62,8 +62,8 @@
 - [Simulation](#simulation) (1)
 - [Sliding Window](#sliding-window) (4)
 - [Sorting](#sorting) (7)
-- [Stack](#stack) (2)
-- [String](#string) (7)
+- [Stack](#stack) (3)
+- [String](#string) (8)
 - [Treap](#treap) (2)
 - [Tree](#tree) (1)
 - [Two Pointers](#two-pointers) (4)
@@ -200,6 +200,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 20 | [Valid Parentheses](./20-valid-parentheses/) | Easy | java |
 | 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | java |
 | 2267 | [ Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard | java |
 
@@ -556,6 +557,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 20 | [Valid Parentheses](./20-valid-parentheses/) | Easy | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | java |
 | 1614 | [Maximum Nesting Depth of the Parentheses](./1614-maximum-nesting-depth-of-the-parentheses/) | Easy | java |
 
@@ -564,6 +566,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | java |
+| 20 | [Valid Parentheses](./20-valid-parentheses/) | Easy | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | java |
 | 242 | [Valid Anagram](./242-valid-anagram/) | Easy | java |
 | 647 | [Palindromic Substrings](./647-palindromic-substrings/) | Medium | java |
@@ -616,6 +619,7 @@
 | 2 | [Add Two Numbers](./2-median-of-two-sorted-arrays/) | Medium | Array, Binary Search, Divide and Conquer | java |
 | 3 | [Longest Substring Without Repeating Characters](./3-longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java |
 | 15 | [3Sum](./15-3sum/) | Medium | Array, Two Pointers, Sorting | java |
+| 20 | [Valid Parentheses](./20-valid-parentheses/) | Easy | String, Stack, Bracket Sequences | java |
 | 37 | [Sudoku Solver](./37-sudoku-solver/) | Hard | Array, Hash Table, Backtracking, Matrix, Algorithm X, Dancing Links | java |
 | 51 | [N-Queens](./51-n-queens/) | Hard | Array, Backtracking, Algorithm X | java |
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | Backtracking, Algorithm X | java |
