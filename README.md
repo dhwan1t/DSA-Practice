@@ -1,12 +1,12 @@
 # LeetCode Solutions
 
-> **51** problems solved
+> **52** problems solved
 
 ## Topics
 
 - [0-1 BFS](#0-1-bfs) (2)
 - [Algorithm X](#algorithm-x) (3)
-- [Array](#array) (32)
+- [Array](#array) (33)
 - [Backtracking](#backtracking) (6)
 - [Bellman–Ford Algorithm](#bellman-ford-algorithm) (1)
 - [Binary Indexed Tree](#binary-indexed-tree) (1)
@@ -15,6 +15,7 @@
 - [Binary Tree](#binary-tree) (1)
 - [Bit Manipulation](#bit-manipulation) (6)
 - [Bitmask](#bitmask) (4)
+- [Borůvka's Algorithm](#bor-vka-s-algorithm) (1)
 - [Bracket Sequences](#bracket-sequences) (2)
 - [Brainteaser](#brainteaser) (1)
 - [Breadth-First Search](#breadth-first-search) (6)
@@ -31,13 +32,14 @@
 - [Enumeration](#enumeration) (1)
 - [Floyd–Warshall Algorithm](#floyd-warshall-algorithm) (1)
 - [Game Theory](#game-theory) (1)
-- [Graph Theory](#graph-theory) (5)
+- [Graph Theory](#graph-theory) (6)
 - [Greedy](#greedy) (3)
 - [Hamiltonian Path](#hamiltonian-path) (1)
 - [Hash Function](#hash-function) (1)
 - [Hash Table](#hash-table) (13)
 - [Heap (Priority Queue)](#heap-priority-queue) (6)
 - [Impartial Game](#impartial-game) (1)
+- [Kruskal's Algorithm](#kruskal-s-algorithm) (1)
 - [Linked List](#linked-list) (4)
 - [Longest Increasing Subsequence](#longest-increasing-subsequence) (1)
 - [Math](#math) (5)
@@ -45,10 +47,12 @@
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Memoization](#memoization) (1)
 - [Merge Sort](#merge-sort) (1)
+- [Minimum Spanning Tree](#minimum-spanning-tree) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Number Theory](#number-theory) (1)
 - [Ordered Set](#ordered-set) (2)
 - [Prefix Sum](#prefix-sum) (2)
+- [Prim's Algorithm](#prim-s-algorithm) (1)
 - [Primality Test](#primality-test) (1)
 - [Prime Number Sieve](#prime-number-sieve) (1)
 - [Recursion](#recursion) (1)
@@ -63,7 +67,7 @@
 - [Treap](#treap) (2)
 - [Tree](#tree) (1)
 - [Two Pointers](#two-pointers) (4)
-- [Union-Find](#union-find) (1)
+- [Union-Find](#union-find) (2)
 - [Uncategorized](#uncategorized) (3)
 - [All Problems](#all-problems)
 
@@ -101,6 +105,7 @@
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 | 703 | [Kth Largest Element in a Stream](./703-sliding-window-median/) | Easy | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
+| 787 | [Cheapest Flights Within K Stops](./787-min-cost-to-connect-all-points/) | Medium | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | java |
 | 994 | [Rotting Oranges](./994-rotting-oranges/) | Medium | java |
@@ -184,6 +189,12 @@
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
+
+## Borůvka's Algorithm
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 787 | [Cheapest Flights Within K Stops](./787-min-cost-to-connect-all-points/) | Medium | java |
 
 ## Bracket Sequences
 
@@ -314,6 +325,7 @@
 |---|-------|------------|----------|
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
 | 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
+| 787 | [Cheapest Flights Within K Stops](./787-min-cost-to-connect-all-points/) | Medium | java |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | java |
 | 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-obstacle-removal-to-reach-corner/) | Hard | java |
 | 2290 | [Minimum Obstacle Removal to Reach Corner](./2290-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard | java |
@@ -373,6 +385,12 @@
 |---|-------|------------|----------|
 | 1025 | [Divisor Game](./1025-divisor-game/) | Easy | java |
 
+## Kruskal's Algorithm
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 787 | [Cheapest Flights Within K Stops](./787-min-cost-to-connect-all-points/) | Medium | java |
+
 ## Linked List
 
 | # | Title | Difficulty | Language |
@@ -429,6 +447,12 @@
 |---|-------|------------|----------|
 | 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
 
+## Minimum Spanning Tree
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 787 | [Cheapest Flights Within K Stops](./787-min-cost-to-connect-all-points/) | Medium | java |
+
 ## Monotonic Stack
 
 | # | Title | Difficulty | Language |
@@ -454,6 +478,12 @@
 |---|-------|------------|----------|
 | 410 | [Split Array Largest Sum](./410-split-array-largest-sum/) | Hard | java |
 | 1004 | [Max Consecutive Ones III](./1004-max-consecutive-ones-iii/) | Medium | java |
+
+## Prim's Algorithm
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 787 | [Cheapest Flights Within K Stops](./787-min-cost-to-connect-all-points/) | Medium | java |
 
 ## Primality Test
 
@@ -567,6 +597,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 787 | [Cheapest Flights Within K Stops](./787-min-cost-to-connect-all-points/) | Medium | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-longest-consecutive-sequence/) | Hard | java |
 
 ## Uncategorized
@@ -606,6 +637,7 @@
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | Hash Table, Linked List, Design, Doubly-Linked List | java |
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Shortest Path, Dijkstra's Algorithm | java |
 | 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Shortest Path | java |
+| 787 | [Cheapest Flights Within K Stops](./787-min-cost-to-connect-all-points/) | Medium | Array, Union-Find, Graph Theory, Minimum Spanning Tree, Prim's Algorithm, Kruskal's Algorithm, Borůvka's Algorithm | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | Array, Dynamic Programming, Stack, Monotonic Stack | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | Array, Hash Table, Sliding Window, Counting | java |
 | 994 | [Rotting Oranges](./994-rotting-oranges/) | Medium | Array, Breadth-First Search, Matrix | java |
