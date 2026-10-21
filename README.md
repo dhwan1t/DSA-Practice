@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **54** problems solved
+> **55** problems solved
 
 ## Topics
 
@@ -12,7 +12,7 @@
 - [Binary Indexed Tree](#binary-indexed-tree) (1)
 - [Binary Search](#binary-search) (6)
 - [Binary Search Tree](#binary-search-tree) (1)
-- [Binary Tree](#binary-tree) (1)
+- [Binary Tree](#binary-tree) (2)
 - [Bit Manipulation](#bit-manipulation) (6)
 - [Bitmask](#bitmask) (4)
 - [Borůvka's Algorithm](#bor-vka-s-algorithm) (1)
@@ -23,12 +23,13 @@
 - [Dancing Links](#dancing-links) (1)
 - [Data Stream](#data-stream) (1)
 - [Database](#database) (1)
-- [Depth-First Search](#depth-first-search) (2)
+- [Depth-First Search](#depth-first-search) (3)
 - [Design](#design) (3)
 - [Dijkstra's Algorithm](#dijkstra-s-algorithm) (4)
 - [Divide and Conquer](#divide-and-conquer) (3)
 - [Doubly-Linked List](#doubly-linked-list) (1)
-- [Dynamic Programming](#dynamic-programming) (15)
+- [DP on Trees](#dp-on-trees) (1)
+- [Dynamic Programming](#dynamic-programming) (16)
 - [Enumeration](#enumeration) (1)
 - [Floyd–Warshall Algorithm](#floyd-warshall-algorithm) (1)
 - [Game Theory](#game-theory) (1)
@@ -65,7 +66,7 @@
 - [Stack](#stack) (3)
 - [String](#string) (8)
 - [Treap](#treap) (2)
-- [Tree](#tree) (1)
+- [Tree](#tree) (2)
 - [Two Pointers](#two-pointers) (5)
 - [Union-Find](#union-find) (2)
 - [Uncategorized](#uncategorized) (3)
@@ -169,6 +170,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 703 | [Kth Largest Element in a Stream](./703-kth-largest-element-in-a-stream/) | Easy | java |
+| 968 | [Binary Tree Cameras](./968-binary-tree-cameras/) | Hard | java |
 
 ## Bit Manipulation
 
@@ -251,6 +253,7 @@
 |---|-------|------------|----------|
 | 743 | [Network Delay Time](./743-network-delay-time/) | Medium | java |
 | 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
+| 968 | [Binary Tree Cameras](./968-binary-tree-cameras/) | Hard | java |
 
 ## Design
 
@@ -283,6 +286,12 @@
 |---|-------|------------|----------|
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
 
+## DP on Trees
+
+| # | Title | Difficulty | Language |
+|---|-------|------------|----------|
+| 968 | [Binary Tree Cameras](./968-binary-tree-cameras/) | Hard | java |
+
 ## Dynamic Programming
 
 | # | Title | Difficulty | Language |
@@ -296,6 +305,7 @@
 | 698 | [Partition to K Equal Sum Subsets](./698-partition-to-k-equal-sum-subsets/) | Medium | java |
 | 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | java |
+| 968 | [Binary Tree Cameras](./968-binary-tree-cameras/) | Hard | java |
 | 1025 | [Divisor Game](./1025-divisor-game/) | Easy | java |
 | 1162 | [As Far from Land as Possible](./1162-as-far-from-land-as-possible/) | Medium | java |
 | 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium | java |
@@ -590,6 +600,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 703 | [Kth Largest Element in a Stream](./703-kth-largest-element-in-a-stream/) | Easy | java |
+| 968 | [Binary Tree Cameras](./968-binary-tree-cameras/) | Hard | java |
 
 ## Two Pointers
 
@@ -649,6 +660,7 @@
 | 787 | [Cheapest Flights Within K Stops](./787-cheapest-flights-within-k-stops/) | Medium | Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Shortest Path | java |
 | 787 | [Cheapest Flights Within K Stops](./787-min-cost-to-connect-all-points/) | Medium | Array, Union-Find, Graph Theory, Minimum Spanning Tree, Prim's Algorithm, Kruskal's Algorithm, Borůvka's Algorithm | java |
 | 907 | [Sum of Subarray Minimums](./907-sum-of-subarray-minimums/) | Medium | Array, Dynamic Programming, Stack, Monotonic Stack | java |
+| 968 | [Binary Tree Cameras](./968-binary-tree-cameras/) | Hard | Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees | java |
 | 992 | [Subarrays with K Different Integers](./992-subarrays-with-k-different-integers/) | Hard | Array, Hash Table, Sliding Window, Counting | java |
 | 994 | [Rotting Oranges](./994-rotting-oranges/) | Medium | Array, Breadth-First Search, Matrix | java |
 | 1004 | [Max Consecutive Ones III](./1004-max-consecutive-ones-iii/) | Medium | Array, Binary Search, Sliding Window, Prefix Sum | java |
