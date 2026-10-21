@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-> **53** problems solved
+> **54** problems solved
 
 ## Topics
 
@@ -26,7 +26,7 @@
 - [Depth-First Search](#depth-first-search) (2)
 - [Design](#design) (3)
 - [Dijkstra's Algorithm](#dijkstra-s-algorithm) (4)
-- [Divide and Conquer](#divide-and-conquer) (2)
+- [Divide and Conquer](#divide-and-conquer) (3)
 - [Doubly-Linked List](#doubly-linked-list) (1)
 - [Dynamic Programming](#dynamic-programming) (15)
 - [Enumeration](#enumeration) (1)
@@ -40,13 +40,13 @@
 - [Heap (Priority Queue)](#heap-priority-queue) (6)
 - [Impartial Game](#impartial-game) (1)
 - [Kruskal's Algorithm](#kruskal-s-algorithm) (1)
-- [Linked List](#linked-list) (4)
+- [Linked List](#linked-list) (5)
 - [Longest Increasing Subsequence](#longest-increasing-subsequence) (1)
 - [Math](#math) (5)
 - [Matrix](#matrix) (7)
 - [Meet in the Middle](#meet-in-the-middle) (2)
 - [Memoization](#memoization) (1)
-- [Merge Sort](#merge-sort) (1)
+- [Merge Sort](#merge-sort) (2)
 - [Minimum Spanning Tree](#minimum-spanning-tree) (1)
 - [Monotonic Stack](#monotonic-stack) (1)
 - [Number Theory](#number-theory) (1)
@@ -61,12 +61,12 @@
 - [Sieve Theory](#sieve-theory) (1)
 - [Simulation](#simulation) (1)
 - [Sliding Window](#sliding-window) (4)
-- [Sorting](#sorting) (7)
+- [Sorting](#sorting) (8)
 - [Stack](#stack) (3)
 - [String](#string) (8)
 - [Treap](#treap) (2)
 - [Tree](#tree) (1)
-- [Two Pointers](#two-pointers) (4)
+- [Two Pointers](#two-pointers) (5)
 - [Union-Find](#union-find) (2)
 - [Uncategorized](#uncategorized) (3)
 - [All Problems](#all-problems)
@@ -274,6 +274,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 2 | [Add Two Numbers](./2-median-of-two-sorted-arrays/) | Medium | java |
+| 148 | [Sort List](./148-sort-list/) | Medium | java |
 | 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
 
 ## Doubly-Linked List
@@ -397,6 +398,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 2 | [Add Two Numbers](./2-add-two-numbers/) | Medium | java |
+| 148 | [Sort List](./148-sort-list/) | Medium | java |
 | 706 | [Design HashMap](./706-design-hashmap/) | Easy | java |
 | 706 | [Design HashMap](./706-lru-cache/) | Easy | java |
 | 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](./2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium | java |
@@ -446,6 +448,7 @@
 
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
+| 148 | [Sort List](./148-sort-list/) | Medium | java |
 | 493 | [Reverse Pairs](./493-reverse-pairs/) | Hard | java |
 
 ## Minimum Spanning Tree
@@ -546,6 +549,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 15 | [3Sum](./15-3sum/) | Medium | java |
+| 148 | [Sort List](./148-sort-list/) | Medium | java |
 | 217 | [Contains Duplicate](./217-contains-duplicate/) | Easy | java |
 | 242 | [Valid Anagram](./242-valid-anagram/) | Easy | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
@@ -592,6 +596,7 @@
 | # | Title | Difficulty | Language |
 |---|-------|------------|----------|
 | 15 | [3Sum](./15-3sum/) | Medium | java |
+| 148 | [Sort List](./148-sort-list/) | Medium | java |
 | 647 | [Palindromic Substrings](./647-palindromic-substrings/) | Medium | java |
 | 1755 | [Closest Subsequence Sum](./1755-closest-subsequence-sum/) | Hard | java |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](./2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard | java |
@@ -625,6 +630,7 @@
 | 52 | [N-Queens II](./52-n-queens-ii/) | Hard | Backtracking, Algorithm X | java |
 | 52 | [N-Queens II](./52-unique-paths-iii/) | Hard | Array, Backtracking, Bit Manipulation, Matrix, Hamiltonian Path | java |
 | 72 | [Edit Distance](./72-edit-distance/) | Medium | String, Dynamic Programming | java |
+| 148 | [Sort List](./148-sort-list/) | Medium | Linked List, Two Pointers, Divide and Conquer, Sorting, Merge Sort | java |
 | 204 | [Count Primes](./204-count-primes/) | Medium | Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve | java |
 | 217 | [Contains Duplicate](./217-contains-duplicate/) | Easy | Array, Hash Table, Sorting | java |
 | 242 | [Valid Anagram](./242-valid-anagram/) | Easy | Hash Table, String, Sorting | java |
